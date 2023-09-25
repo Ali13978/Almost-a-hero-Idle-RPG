@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+  m_Name: "HeroBundle-Druid"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: -7276599470274152582, guid: 7501b70986a642459b4ab28f34a6a4b8, type: 2}
+  animation: {fileID: 11400000, guid: 52904365e6f7411791a7e5c8c15f7ed5, type: 2}
+  SelectedAudioClips:
+  - {fileID: 8300000, guid: f24d8927f56a42e29973700ac723a8ce, type: 3}
+  - {fileID: 8300000, guid: 0b0ffbe19424484e9d2da7a6457e27d2, type: 3}
+  - {fileID: 8300000, guid: a958341b1f4041a8afd2bf86e7325533, type: 3}
+  UpgradeItemAudioClips:
+  - {fileID: 8300000, guid: dceafd0484c44394aea3b70a340d8b10, type: 3}
+  - {fileID: 8300000, guid: 8099160ae43f4924a0adaf91160e07b4, type: 3}
+  - {fileID: 8300000, guid: ca1f1f1cdc454716a356f2c88a5d0c58, type: 3}
+  - {fileID: 8300000, guid: 6d8ee2e71f4c4fc3a913dcd402d7e91d, type: 3}
+  - {fileID: 8300000, guid: 64f9c56ec7e14a4a9111e26505b0397d, type: 3}

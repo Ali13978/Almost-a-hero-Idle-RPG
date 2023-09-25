@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee64b91ccdf7fbac87125bfd4e49a217, type: 3}
+  m_Name: "KindLennyInGameAssetsBundle"
+  m_EditorClassIdentifier: 
+  Projectile: {fileID: -1971175039086165501, guid: bdbacd6518d1426f87faa5c329ca06a6, type: 2}
+  ProjectileAppleBombard: {fileID: -3885281241648213505, guid: e83a1ec530154736987db67253a7bb81, type: 2}
+  GreenAppleExplossion: {fileID: -1591095691275217655, guid: 19f41deb55a64083b5c5402d4a083426, type: 2}
+  GreenAppleExplosionAnimData: {fileID: 11400000, guid: 30fcc0054f004b9fa6c2dcddac2d9e5c, type: 2}

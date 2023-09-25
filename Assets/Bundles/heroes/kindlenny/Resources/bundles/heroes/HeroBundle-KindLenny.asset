@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+  m_Name: "HeroBundle-KindLenny"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4450260500720369442, guid: 5c22d4dfd06e43d8bf20dc4ee70a05d9, type: 2}
+  animation: {fileID: 11400000, guid: ba1172a63c514608b738ae3c81183a43, type: 2}
+  SelectedAudioClips:
+  - {fileID: 8300000, guid: 9d6618ad075648bf82618ab7ba23f2b5, type: 3}
+  - {fileID: 8300000, guid: 5d3a6d78a9434d4f889e2b8301c314ab, type: 3}
+  - {fileID: 8300000, guid: 82df77e1d6e74d51aae7924ac5182ac1, type: 3}
+  UpgradeItemAudioClips:
+  - {fileID: 8300000, guid: 98ace235a64b4f38acb2a83d72e083ea, type: 3}
+  - {fileID: 8300000, guid: 1f9b9695fe9e48dcb4b3cb940bedd9f9, type: 3}
+  - {fileID: 8300000, guid: d6d9efde198b41bf9fc8a3b6d09d5188, type: 3}
+  - {fileID: 8300000, guid: 300df05b350a4619b841dcae1a16ab3a, type: 3}
+  - {fileID: 8300000, guid: de968b1253e2481b9851ea16e82630ed, type: 3}

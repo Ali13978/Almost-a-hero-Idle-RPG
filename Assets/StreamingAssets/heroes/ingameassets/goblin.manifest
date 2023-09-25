@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 3865250672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97830dcef321237145ce2bb9264ecdbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ba81a467b3fa80d6d0d5e91a84a897b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c2c5929082fd741a9af7095f7688322, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abd6666c508f912f384689b2d9b6379a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/ingameassets/goblin/MonoBehaviour/skeleton_Atlas.asset
+- Assets/Bundles/heroes/ingameassets/goblin/Images/smokebomb.png
+- Assets/Bundles/heroes/ingameassets/goblin/Materials/Sprites-Default.mat
+- Assets/Bundles/heroes/ingameassets/goblin/Texts/skeleton.skel.bytes
+- Assets/Resources/prefabs/projectilesanim/SmartProjectileGoblin.prefab
+- Assets/Bundles/heroes/ingameassets/goblin/Texts/smokebomb.skel.bytes
+- Assets/Bundles/heroes/ingameassets/goblin/MonoBehaviour/smokebomb_Atlas.asset
+- Assets/Resources/prefabs/anim/GoblinSmoke.prefab
+- Assets/Bundles/heroes/ingameassets/goblin/Texts/skeleton.atlas.txt
+- Assets/Resources/prefabs/projectilesstill/ProjectileSmokeBomb.prefab
+- Assets/Bundles/heroes/ingameassets/goblin/Texts/smokebomb.atlas.txt
+- Assets/Bundles/heroes/ingameassets/goblin/Images/skeleton.png
+- Assets/Bundles/heroes/ingameassets/goblin/MonoBehaviour/smokebomb_SkeletonData.asset
+- Assets/Bundles/heroes/ingameassets/goblin/Images/bomb.png
+- Assets/Bundles/heroes/ingameassets/goblin/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Bundles/heroes/ingameassets/goblin/Resources/bundles/heroes/ingameasset/GoblinInGameAssetsBundle.asset
+- Assets/Bundles/heroes/ingameassets/goblin/Materials/skeleton_Material.mat
+- Assets/Bundles/heroes/ingameassets/goblin/Materials/smokebomb_Material.mat
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

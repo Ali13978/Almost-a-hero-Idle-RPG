@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 1417668741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a1309d6c8a70f18bdb97be70ccddc31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c10570324ff761e885f83123fbf63e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/warlock/Resources/bundles/heroes/HeroBundle-Warlock.asset
+- Assets/Bundles/heroes/warlock/Sounds/Emotes_Uno_4.wav
+- Assets/Bundles/heroes/warlock/CAB-c35d575cb8fa57d8ef540270a1268897/Warlock.prefab
+- Assets/Bundles/heroes/warlock/Sounds/DirectAddress_Uno_3.wav
+- Assets/Bundles/heroes/warlock/Sounds/ItemUpgrade_Uno_1.wav
+- Assets/Bundles/heroes/warlock/Texts/warlock.atlas.txt
+- Assets/Bundles/heroes/warlock/Images/warlock.png
+- Assets/Bundles/heroes/warlock/Sounds/ItemUpgrade_Uno_3.wav
+- Assets/Bundles/heroes/warlock/Materials/warlock_Material.mat
+- Assets/Bundles/heroes/warlock/Sounds/ItemUpgrade_Uno_2.wav
+- Assets/Bundles/heroes/warlock/Sounds/ItemUpgrade_Uno_5.wav
+- Assets/Bundles/heroes/warlock/Sounds/Emotes_Uno_5.wav
+- Assets/Bundles/heroes/warlock/Texts/warlock.skel.bytes
+- Assets/Bundles/heroes/warlock/Sounds/ItemUpgrade_Uno_4.wav
+- Assets/Bundles/heroes/warlock/Sounds/DirectAddress_Uno_2.wav
+- Assets/Bundles/heroes/warlock/Sounds/DirectAddress_Uno_1.wav
+- Assets/Bundles/heroes/warlock/MonoBehaviour/warlock_SkeletonData.asset
+- Assets/Bundles/heroes/warlock/MonoBehaviour/warlock_Atlas.asset
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

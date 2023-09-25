@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/end/tap_end0001
+  rotate: false
+  xy: 394, 93
+  size: 73, 76
+  orig: 80, 80
+  offset: 1, 2
+  index: -1
+assets/end/tap_end0002
+  rotate: false
+  xy: 161, 67
+  size: 73, 78
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+assets/end/tap_end0003
+  rotate: false
+  xy: 236, 89
+  size: 78, 78
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+assets/end/tap_end0004
+  rotate: false
+  xy: 266, 171
+  size: 79, 78
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+assets/end/tap_end0005
+  rotate: false
+  xy: 347, 171
+  size: 79, 78
+  orig: 80, 80
+  offset: 1, 0
+  index: -1
+assets/end/tap_end0006
+  rotate: false
+  xy: 2, 68
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+assets/end/tap_end0007
+  rotate: false
+  xy: 104, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+assets/end/tap_end0008
+  rotate: false
+  xy: 186, 169
+  size: 78, 80
+  orig: 80, 80
+  offset: 2, 0
+  index: -1
+assets/end/tap_end0009
+  rotate: true
+  xy: 428, 172
+  size: 77, 80
+  orig: 80, 80
+  offset: 3, 0
+  index: -1
+assets/end/tap_end0010
+  rotate: false
+  xy: 316, 94
+  size: 76, 75
+  orig: 80, 80
+  offset: 4, 0
+  index: -1
+assets/end/tap_end0011
+  rotate: true
+  xy: 84, 68
+  size: 77, 75
+  orig: 80, 80
+  offset: 3, 0
+  index: -1
+assets/end/tap_end0012
+  rotate: false
+  xy: 236, 13
+  size: 74, 74
+  orig: 80, 80
+  offset: 4, 1
+  index: -1
+assets/glow
+  rotate: false
+  xy: 2, 150
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+assets/glow_3
+  rotate: false
+  xy: 100, 34
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+assets/glow_out
+  rotate: false
+  xy: 316, 35
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+assets/ice
+  rotate: false
+  xy: 104, 147
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+assets/ice_2
+  rotate: false
+  xy: 2, 21
+  size: 96, 45
+  orig: 96, 45
+  offset: 0, 0
+  index: -1
+assets/snow
+  rotate: false
+  xy: 2, 2
+  size: 100, 17
+  orig: 100, 17
+  offset: 0, 0
+  index: -1

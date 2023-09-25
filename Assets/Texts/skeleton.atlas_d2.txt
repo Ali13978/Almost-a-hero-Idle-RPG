@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/flame_small 2
+  rotate: true
+  xy: 175, 68
+  size: 14, 50
+  orig: 14, 50
+  offset: 0, 0
+  index: -1
+assets/flame_small02
+  rotate: true
+  xy: 2, 2
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+assets/flame_small03
+  rotate: true
+  xy: 841, 92
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+assets/frames/Comp 3/fire__00000
+  rotate: false
+  xy: 708, 66
+  size: 74, 59
+  orig: 85, 80
+  offset: 4, 8
+  index: -1
+assets/frames/Comp 3/fire__00001
+  rotate: false
+  xy: 466, 54
+  size: 83, 71
+  orig: 85, 80
+  offset: 0, 0
+  index: -1
+assets/frames/Comp 3/fire__00002
+  rotate: false
+  xy: 89, 52
+  size: 84, 73
+  orig: 85, 80
+  offset: 1, 1
+  index: -1
+assets/frames/Comp 3/fire__00003
+  rotate: false
+  xy: 2, 49
+  size: 85, 76
+  orig: 85, 80
+  offset: 0, 2
+  index: -1
+assets/frames/Comp 3/fire__00004
+  rotate: false
+  xy: 292, 60
+  size: 85, 65
+  orig: 85, 80
+  offset: 0, 13
+  index: -1
+assets/frames/Comp 3/fire__00005
+  rotate: false
+  xy: 379, 60
+  size: 85, 65
+  orig: 85, 80
+  offset: 0, 13
+  index: -1
+assets/frames/Comp 3/fire__00006
+  rotate: false
+  xy: 551, 61
+  size: 77, 64
+  orig: 85, 80
+  offset: 0, 15
+  index: -1
+assets/frames/Comp 3/fire__00007
+  rotate: false
+  xy: 630, 63
+  size: 76, 62
+  orig: 85, 80
+  offset: 0, 16
+  index: -1
+assets/frames/Comp 3/fire__00008
+  rotate: false
+  xy: 2, 13
+  size: 59, 34
+  orig: 85, 80
+  offset: 12, 44
+  index: -1
+assets/frames/Comp 3/fire__00009
+  rotate: false
+  xy: 784, 93
+  size: 55, 32
+  orig: 85, 80
+  offset: 15, 45
+  index: -1
+assets/smoke
+  rotate: true
+  xy: 175, 84
+  size: 41, 115
+  orig: 41, 115
+  offset: 0, 0
+  index: -1

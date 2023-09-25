@@ -1,0 +1,20 @@
+
+critDmgBoost.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+red_01
+  rotate: false
+  xy: 2, 20
+  size: 124, 32
+  orig: 124, 32
+  offset: 0, 0
+  index: -1
+red_02
+  rotate: true
+  xy: 2, 2
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1

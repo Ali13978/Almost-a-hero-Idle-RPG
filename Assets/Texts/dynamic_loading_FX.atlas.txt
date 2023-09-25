@@ -1,0 +1,27 @@
+
+dynamic_loading_FX.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_glow_01
+  rotate: false
+  xy: 2, 20
+  size: 114, 96
+  orig: 114, 96
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 118, 86
+  size: 30, 30
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+particule_0001
+  rotate: false
+  xy: 2, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

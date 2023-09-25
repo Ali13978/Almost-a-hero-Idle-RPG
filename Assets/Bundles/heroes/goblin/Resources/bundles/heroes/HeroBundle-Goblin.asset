@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+  m_Name: "HeroBundle-Goblin"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2872555041384389303, guid: 3269c84c770c4d7a8e44d611babb8cd4, type: 2}
+  animation: {fileID: 11400000, guid: 7d3d35bfd3ae4cad867eafe8f70d5246, type: 2}
+  SelectedAudioClips:
+  - {fileID: 8300000, guid: be6b390b387d47cb9f5a07f7d6cd4351, type: 3}
+  - {fileID: 8300000, guid: 7f757ec341f44f59a892976bafbc1757, type: 3}
+  - {fileID: 8300000, guid: acb6c1ed6f3641dba1874bdc1d59129e, type: 3}
+  UpgradeItemAudioClips:
+  - {fileID: 8300000, guid: 439bd6a9c5ae4bfd85fce67f14ff8dd7, type: 3}
+  - {fileID: 8300000, guid: b373caeb4ea94cb2adc6a10914591355, type: 3}
+  - {fileID: 8300000, guid: 4e0fb725afd242bfbd973edf4b63fc63, type: 3}
+  - {fileID: 8300000, guid: e21b96f9877540338b99271d55185319, type: 3}
+  - {fileID: 8300000, guid: 004c043e9de545179edf57a488ba66b0, type: 3}

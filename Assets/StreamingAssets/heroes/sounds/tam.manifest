@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2831520777
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4544e96ece03f6cc0d113f444cbf9de8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_pas2_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/fx/tam/Tam_Shoot_3.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_emote_11.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_spawn_3.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_emote_13.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_greeting_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_death_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/fx/tam/Tam_Shoot_special_3.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/fx/tam/Tam_Shoot_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_revive_3.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_spawn_2_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_greeting_3.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_env_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_pas2_3.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_pas1_3.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_death_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/fx/tam/Tam_Throw_flare.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_greeting_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_pas1_4.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_spawn_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_pas2_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_spawn_2_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_ultimate_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/fx/tam/Tam_Attack_Bear_talhaedit.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_levelup_3_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_pas2_4.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_levelup_4.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_emote_12.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/fx/tam/Tam_Reload.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/fx/tam/Tam_Shoot_special_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_pas1_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_levelup_5.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/fx/tam/Tam_Shoot_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_levelup_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/fx/tam/Tam_Shoot_special_1.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_env_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/fx/tam/Tam_Bird_Attack.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_pas1_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_revive_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_ultimate_2.wav
+- Assets/Bundles/heroes/sounds/tam/Resources/sound/hero/vo/tam/vo_tam_levelup_2_2.wav
+Dependencies: []

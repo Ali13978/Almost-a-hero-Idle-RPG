@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/shadow
+  rotate: false
+  xy: 2, 9
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+hamster/body
+  rotate: false
+  xy: 93, 2
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+hamster/eye
+  rotate: false
+  xy: 2, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+hamster_xmas/eye
+  rotate: false
+  xy: 2, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+hamster/hand
+  rotate: true
+  xy: 206, 15
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+hamster/hand_b
+  rotate: false
+  xy: 206, 23
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hamster/leg
+  rotate: false
+  xy: 195, 7
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hamster/leg_b
+  rotate: false
+  xy: 215, 23
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hamster/tail
+  rotate: false
+  xy: 195, 24
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+hamster_xmas/body
+  rotate: false
+  xy: 144, 2
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+hamster_xmas/hand
+  rotate: true
+  xy: 215, 15
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+hamster_xmas/hand_b
+  rotate: false
+  xy: 224, 23
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hamster_xmas/leg
+  rotate: false
+  xy: 233, 23
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hamster_xmas/leg_b
+  rotate: false
+  xy: 242, 23
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hamster_xmas/tail
+  rotate: false
+  xy: 195, 16
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1

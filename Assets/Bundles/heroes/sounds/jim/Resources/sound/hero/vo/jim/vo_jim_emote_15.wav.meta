@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f6d383fa94244d46a1ddc43c6d7f6413
+timeCreated: 1599083171
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: heroes/sounds/jim
+  assetBundleVariant: 

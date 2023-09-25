@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ev01/bag_1 copy
+  rotate: false
+  xy: 106, 13
+  size: 19, 15
+  orig: 21, 17
+  offset: 1, 1
+  index: -1
+ev01/bag_2 copy
+  rotate: false
+  xy: 2, 2
+  size: 24, 26
+  orig: 26, 28
+  offset: 1, 1
+  index: -1
+ev06/bag_1 copy
+  rotate: false
+  xy: 127, 13
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+ev06/bag_2 copy
+  rotate: false
+  xy: 28, 2
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+ev07/bag_1 copy
+  rotate: false
+  xy: 148, 13
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+ev07/bag_2 copy
+  rotate: false
+  xy: 54, 2
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+skin_birthday/bag_1 copy
+  rotate: false
+  xy: 169, 13
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+skin_birthday/bag_2 copy
+  rotate: false
+  xy: 80, 2
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1

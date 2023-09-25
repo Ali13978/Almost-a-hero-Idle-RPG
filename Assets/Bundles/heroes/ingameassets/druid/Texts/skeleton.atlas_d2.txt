@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/shadow
+  rotate: false
+  xy: 2, 34
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+frog/body
+  rotate: false
+  xy: 93, 13
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+frog/eye
+  rotate: false
+  xy: 2, 2
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+frog/hand
+  rotate: false
+  xy: 137, 31
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+frog/leg
+  rotate: false
+  xy: 2, 7
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

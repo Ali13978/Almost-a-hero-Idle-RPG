@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+  m_Name: "Ron_SkeletonData"
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 9f9ff364a21d4a7a9fd309c7b8e7224f, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: a7283e1d8567492cbf125ca301df574e, type: 3}
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: 
+  defaultMix: 0
+  controller: {fileID: 0}

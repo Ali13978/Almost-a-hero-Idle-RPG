@@ -1,0 +1,34 @@
+
+warlock.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+purple_attack
+  rotate: false
+  xy: 70, 3
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+purple_attackHnd
+  rotate: false
+  xy: 138, 3
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+purple_attackHnd_xmas
+  rotate: false
+  xy: 206, 3
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+redish_attack
+  rotate: false
+  xy: 2, 2
+  size: 66, 104
+  orig: 66, 104
+  offset: 0, 0
+  index: -1

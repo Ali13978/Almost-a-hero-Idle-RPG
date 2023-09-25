@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 3717891136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5bb27495c1a405194326cd42124b1a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_transforms_werewolf_V2.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Environment comment
+  1_4.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Level Up 1_3.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Larry_one_animals_appear.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_transforms_human.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Direct Address
+  2_3.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Xtra Emote 4_1.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_stampede_beast.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_growl_attack_01.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Hand_attack_01.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Tail_attack_01.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Revive 3_3.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Greeting 3_3.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_growl_attack_03.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Xtra Emote 6_1.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Level Up 4_4.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Larry_one_animals_came_out.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Level Up 3_2.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Level Up 5_1.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_transforms_werewolf_short_(1).wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Werewolf_die.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Xtra Emote 2_5.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Revive 2_2.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Level Up 2_3.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Greeting 1_1.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Passive 1_3_2.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Larry_several_animals_came_out.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Passive 1_1_1.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_growl_attack_02.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Ultimate 4_1.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Tail_attack_03.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Environment comment
+  2_3.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Passive 1_2_2.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_stampede.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Xtra Emote 1_1.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/animals/Animal
+  sound 4_3.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Spawn 2_4.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Xtra Emote 3_1.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Larry_beast_transforms_and_call.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Hand_attack_03.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Tail_attack_02.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Hand_attack_02.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Death 3_2.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Passive 2_3_2.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Passive 2_4_5.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Death 1_5.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Death 2_2.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Larry_several_animals_appear.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Passive 1_4_3.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Passive 2_2_1.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/animals/Animal
+  sound 2_5.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/animals/Animal
+  sound 5_3.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Xtra Emote 5_1.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/fx/druid/Ron_Larry_transforms_and_call.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Passive 2_1_2.wav
+- Assets/Bundles/heroes/sounds/druid/Resources/sound/hero/vo/druid/Revive 1_3.wav
+Dependencies: []

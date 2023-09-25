@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+projectiles/weapon_1
+  rotate: false
+  xy: 205, 25
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+projectiles/weapon_11
+  rotate: false
+  xy: 61, 4
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+projectiles/weapon_2
+  rotate: false
+  xy: 164, 6
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+projectiles/weapon_3
+  rotate: false
+  xy: 205, 44
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+projectiles/weapon_4
+  rotate: false
+  xy: 151, 39
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+projectiles/weapon_5
+  rotate: false
+  xy: 109, 11
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+projectiles/weapon_6
+  rotate: true
+  xy: 34, 5
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+projectiles/weapon_7
+  rotate: true
+  xy: 2, 2
+  size: 59, 30
+  orig: 59, 30
+  offset: 0, 0
+  index: -1
+projectiles/weapon_ninja
+  rotate: true
+  xy: 100, 35
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+projectiles/weapon_ninja_ultimate
+  rotate: false
+  xy: 61, 24
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1

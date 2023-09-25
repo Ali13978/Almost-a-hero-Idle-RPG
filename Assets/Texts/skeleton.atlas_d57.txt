@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 2, 2
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+eye_spiral_01
+  rotate: false
+  xy: 97, 18
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+eye_spiral_02
+  rotate: false
+  xy: 64, 9
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

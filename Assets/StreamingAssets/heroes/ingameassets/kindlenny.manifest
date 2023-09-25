@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 899180684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72092692513e20dfda37d856b88b7258
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ca7d49fef8ca2258d82b14706065a30
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4dea6743a0e09a28b28868c91e251cca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee64b91ccdf7fbac87125bfd4e49a217, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abd6666c508f912f384689b2d9b6379a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/ingameassets/kindlenny/Texts/skeleton.atlas.txt
+- Assets/Bundles/heroes/ingameassets/kindlenny/Images/lenny_apple_red.png
+- Assets/Bundles/heroes/ingameassets/kindlenny/Texts/skeleton.skel_d1.bytes
+- Assets/Bundles/heroes/ingameassets/kindlenny/Resources/bundles/heroes/ingameasset/KindLennyInGameAssetsBundle.asset
+- Assets/Bundles/heroes/ingameassets/kindlenny/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Bundles/heroes/ingameassets/kindlenny/MonoBehaviour/skeleton_Atlas.asset
+- Assets/Resources/prefabs/projectilesanim/SmartProjectileLenny.prefab
+- Assets/Bundles/heroes/ingameassets/kindlenny/Materials/skeleton_Material.mat
+- Assets/Bundles/heroes/ingameassets/kindlenny/Texts/skeleton.atlas_d1.txt
+- Assets/Resources/prefabs/projectilesstill/AppleRed.prefab
+- Assets/Bundles/heroes/ingameassets/kindlenny/Materials/skeleton_Material_d1.mat
+- Assets/Bundles/heroes/ingameassets/kindlenny/MonoBehaviour/skeleton_SkeletonData_d1.asset
+- Assets/Bundles/heroes/ingameassets/kindlenny/Images/ball_red.png
+- Assets/Bundles/heroes/ingameassets/kindlenny/MonoBehaviour/skeleton_Atlas_d1.asset
+- Assets/Resources/prefabs/anim/GreenAppleExplosion.prefab
+- Assets/Bundles/heroes/ingameassets/kindlenny/Images/skeleton.png
+- Assets/Bundles/heroes/ingameassets/kindlenny/Texts/skeleton.skel.bytes
+- Assets/Bundles/heroes/ingameassets/kindlenny/Images/skeleton_d1/skeleton.png
+- Assets/Bundles/heroes/ingameassets/kindlenny/Materials/Sprites-Default.mat
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

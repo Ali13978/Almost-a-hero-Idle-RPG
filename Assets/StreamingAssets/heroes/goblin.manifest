@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1625434156
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af2ca60def8a66ffbaf30b7e45ffc408
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c10570324ff761e885f83123fbf63e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/goblin/MonoBehaviour/goblin_Atlas.asset
+- Assets/Bundles/heroes/goblin/Texts/goblin.skel.bytes
+- Assets/Bundles/heroes/goblin/Sounds/Emotes3.wav
+- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade3.wav
+- Assets/Bundles/heroes/goblin/Resources/bundles/heroes/HeroBundle-Goblin.asset
+- Assets/Bundles/heroes/goblin/Images/goblin.png
+- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade1.wav
+- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade4.wav
+- Assets/Bundles/heroes/goblin/Sounds/Emotes10.wav
+- Assets/Bundles/heroes/goblin/Materials/goblin_Material.mat
+- Assets/Bundles/heroes/goblin/Texts/goblin.atlas.txt
+- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade2.wav
+- Assets/Bundles/heroes/goblin/CAB-42f95356c854c55ea1323c12a62ccfc0/Goblin.prefab
+- Assets/Bundles/heroes/goblin/Sounds/Emotes2.wav
+- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade5.wav
+- Assets/Bundles/heroes/goblin/MonoBehaviour/goblin_SkeletonData.asset
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+books/book_1
+  rotate: false
+  xy: 344, 9
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+books/book_8
+  rotate: false
+  xy: 344, 9
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+books/book_10
+  rotate: false
+  xy: 2, 4
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+books/book_11
+  rotate: true
+  xy: 443, 56
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+books/book_2
+  rotate: false
+  xy: 288, 9
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+books/book_3
+  rotate: false
+  xy: 399, 7
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+books/book_4
+  rotate: false
+  xy: 454, 7
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+books/book_5
+  rotate: false
+  xy: 99, 2
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+books/book_6
+  rotate: false
+  xy: 160, 2
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+books/book_7
+  rotate: false
+  xy: 2, 41
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+books/book_9
+  rotate: false
+  xy: 233, 7
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+effects/blue_fire
+  rotate: true
+  xy: 233, 58
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+effects/particle
+  rotate: false
+  xy: 221, 33
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+effects/red_fire
+  rotate: true
+  xy: 338, 58
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+effects/trail
+  rotate: true
+  xy: 99, 51
+  size: 73, 132
+  orig: 73, 132
+  offset: 0, 0
+  index: -1

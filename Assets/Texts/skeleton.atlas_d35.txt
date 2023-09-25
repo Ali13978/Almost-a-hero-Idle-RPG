@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asset/bat_body
+  rotate: false
+  xy: 378, 69
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+asset/bat_ear_L
+  rotate: false
+  xy: 195, 41
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+asset/bat_ear_R
+  rotate: false
+  xy: 223, 48
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+asset/bat_eyebrow_R
+  rotate: true
+  xy: 20, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+asset/bat_head
+  rotate: false
+  xy: 438, 84
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+asset/bat_lid
+  rotate: true
+  xy: 2, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+asset/bat_wing_L
+  rotate: true
+  xy: 195, 80
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+asset/bat_wing_R
+  rotate: true
+  xy: 288, 83
+  size: 43, 88
+  orig: 43, 88
+  offset: 0, 0
+  index: -1
+asset/blur
+  rotate: false
+  xy: 2, 40
+  size: 191, 86
+  orig: 191, 86
+  offset: 0, 0
+  index: -1
+asset/shadow
+  rotate: false
+  xy: 2, 17
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1

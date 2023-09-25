@@ -1,0 +1,293 @@
+
+skeleton.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magoli_boss/aah_magoli_boss_arm L
+  rotate: true
+  xy: 669, 130
+  size: 124, 189
+  orig: 124, 189
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_arm R
+  rotate: true
+  xy: 1085, 145
+  size: 109, 171
+  orig: 109, 171
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_belt
+  rotate: false
+  xy: 860, 188
+  size: 223, 66
+  orig: 223, 66
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_buckle
+  rotate: true
+  xy: 1156, 93
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_crest 1
+  rotate: true
+  xy: 919, 73
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_crest 2
+  rotate: false
+  xy: 844, 65
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_crest 3
+  rotate: false
+  xy: 607, 14
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_crest 4
+  rotate: true
+  xy: 1988, 170
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_crest 5
+  rotate: true
+  xy: 644, 35
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_foot L
+  rotate: true
+  xy: 522, 2
+  size: 80, 23
+  orig: 80, 23
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_foot R
+  rotate: false
+  xy: 691, 30
+  size: 71, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_foreamr R
+  rotate: false
+  xy: 1788, 145
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_forearm L
+  rotate: false
+  xy: 1395, 144
+  size: 134, 110
+  orig: 134, 110
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_hand L
+  rotate: false
+  xy: 691, 53
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_hand R
+  rotate: false
+  xy: 771, 61
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_inside
+  rotate: true
+  xy: 444, 84
+  size: 34, 106
+  orig: 34, 106
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_jaw
+  rotate: false
+  xy: 1531, 157
+  size: 139, 97
+  orig: 139, 97
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_jaw copy
+  rotate: false
+  xy: 860, 118
+  size: 99, 68
+  orig: 99, 68
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_leg L
+  rotate: false
+  xy: 1258, 130
+  size: 135, 124
+  orig: 135, 124
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_leg R
+  rotate: true
+  xy: 1672, 142
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_lid
+  rotate: true
+  xy: 1030, 70
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_skirt
+  rotate: false
+  xy: 444, 120
+  size: 223, 134
+  orig: 223, 134
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_skull
+  rotate: false
+  xy: 232, 90
+  size: 210, 164
+  orig: 210, 164
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_tongue
+  rotate: false
+  xy: 547, 2
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+magoli_boss/aah_magoli_boss_torso
+  rotate: false
+  xy: 2, 16
+  size: 228, 238
+  orig: 228, 238
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/cloud
+  rotate: false
+  xy: 1056, 74
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust/dust_0009
+  rotate: false
+  xy: 960, 61
+  size: 68, 42
+  orig: 166, 149
+  offset: 64, 103
+  index: -1
+magoli_boss/effects/dust/dust_particle1
+  rotate: true
+  xy: 1230, 115
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust/dust_particle2
+  rotate: false
+  xy: 1079, 79
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust/dust_particle5
+  rotate: false
+  xy: 1395, 110
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust/dust_particle7
+  rotate: true
+  xy: 1531, 144
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust_2/dust_0001
+  rotate: false
+  xy: 320, 14
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust_2/dust_0002
+  rotate: false
+  xy: 232, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust_2/dust_0003
+  rotate: true
+  xy: 552, 39
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust_2/dust_0004
+  rotate: true
+  xy: 1893, 75
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust_2/dust_0005
+  rotate: false
+  xy: 429, 5
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust_2/dust_0006
+  rotate: false
+  xy: 961, 105
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/dust_2/dust_0007
+  rotate: false
+  xy: 1079, 98
+  size: 75, 45
+  orig: 76, 47
+  offset: 0, 2
+  index: -1
+magoli_boss/effects/dust_2/dust_0008
+  rotate: false
+  xy: 1893, 165
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+magoli_boss/effects/smoke_optimize/smoke02_optimized
+  rotate: false
+  xy: 2, 9
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+magoli_boss/shadow
+  rotate: true
+  xy: 1056, 97
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1

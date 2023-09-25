@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 439bd6a9c5ae4bfd85fce67f14ff8dd7
+timeCreated: 1599083144
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: heroes/goblin
+  assetBundleVariant: 

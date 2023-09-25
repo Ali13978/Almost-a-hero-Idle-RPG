@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+  m_Name: "HeroBundle-Bomberman"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: -8654091725858732280, guid: ce8407e5f4e34fbcbb4de4692b224f1a, type: 2}
+  animation: {fileID: 11400000, guid: 3deeffe25f1c43a6b426d7f696627450, type: 2}
+  SelectedAudioClips:
+  - {fileID: 8300000, guid: 4ce12ba57a9f4c1895967aa2ed5aa04d, type: 3}
+  - {fileID: 8300000, guid: 14d6a9a161ba456bba7e22c8f26b5016, type: 3}
+  - {fileID: 8300000, guid: 7878bfca44524a16a06041c2cbe45eff, type: 3}
+  UpgradeItemAudioClips:
+  - {fileID: 8300000, guid: 3fab7f5afaa64bd2ab3aed6eacc3fe24, type: 3}
+  - {fileID: 8300000, guid: 7153c963a4ef4e3184f7591ceecaa923, type: 3}
+  - {fileID: 8300000, guid: 7d840c923d9a4a7d96695151158fdf33, type: 3}
+  - {fileID: 8300000, guid: 190c9273b9554897aeb241ca49711a1e, type: 3}
+  - {fileID: 8300000, guid: 8eaf8aea144e4e97a72c27fdf6542e1d, type: 3}

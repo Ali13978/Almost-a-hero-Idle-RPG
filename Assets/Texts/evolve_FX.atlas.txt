@@ -1,0 +1,90 @@
+
+evolve_FX.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 402, 320
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+esferra copy
+  rotate: false
+  xy: 402, 324
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fast
+  rotate: false
+  xy: 1805, 887
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+fast2
+  rotate: false
+  xy: 2, 81
+  size: 398, 393
+  orig: 398, 393
+  offset: 0, 0
+  index: -1
+fast3
+  rotate: false
+  xy: 708, 661
+  size: 374, 359
+  orig: 374, 359
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: true
+  xy: 2, 2
+  size: 77, 156
+  orig: 77, 156
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 708, 599
+  size: 2, 60
+  orig: 2, 60
+  offset: 0, 0
+  index: -1
+fx3
+  rotate: false
+  xy: 1602, 648
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 1084, 533
+  size: 516, 135
+  orig: 516, 135
+  offset: 0, 0
+  index: -1
+shape1
+  rotate: false
+  xy: 1084, 670
+  size: 359, 350
+  orig: 359, 350
+  offset: 0, 0
+  index: -1
+shape2
+  rotate: false
+  xy: 1445, 670
+  size: 358, 350
+  orig: 358, 350
+  offset: 0, 0
+  index: -1
+shape3
+  rotate: false
+  xy: 2, 476
+  size: 704, 544
+  orig: 704, 544
+  offset: 0, 0
+  index: -1

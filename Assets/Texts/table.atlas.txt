@@ -1,0 +1,538 @@
+
+table.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/blue_glow
+  rotate: false
+  xy: 1295, 326
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+FX/blue_light/glow1
+  rotate: true
+  xy: 1089, 323
+  size: 53, 163
+  orig: 53, 163
+  offset: 0, 0
+  index: -1
+FX/blue_light/glow2
+  rotate: false
+  xy: 1233, 224
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+FX/blue_light/glow3
+  rotate: true
+  xy: 2, 2
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+FX/blue_light/glow4
+  rotate: false
+  xy: 790, 172
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+FX/blue_light/glow5
+  rotate: false
+  xy: 1410, 356
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+FX/blue_light/glow6
+  rotate: true
+  xy: 63, 5
+  size: 26, 83
+  orig: 26, 83
+  offset: 0, 0
+  index: -1
+FX/blue_light/glow7
+  rotate: true
+  xy: 1035, 223
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+FX/blue_light/glow8
+  rotate: false
+  xy: 606, 307
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+FX/blue_light/glow9
+  rotate: false
+  xy: 623, 508
+  size: 473, 2
+  orig: 473, 2
+  offset: 0, 0
+  index: -1
+FX/rising_sun
+  rotate: false
+  xy: 167, 2
+  size: 128, 127
+  orig: 128, 128
+  offset: 0, 1
+  index: -1
+FX/rune1
+  rotate: false
+  xy: 1254, 323
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+table2/rune1
+  rotate: false
+  xy: 1254, 323
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+FX/rune2
+  rotate: false
+  xy: 915, 165
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+table2/rune2
+  rotate: false
+  xy: 915, 165
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+FX/table_light
+  rotate: true
+  xy: 1283, 393
+  size: 94, 134
+  orig: 94, 134
+  offset: 0, 0
+  index: -1
+FX/tint
+  rotate: false
+  xy: 623, 303
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+FX/white_glow
+  rotate: false
+  xy: 815, 163
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+artifacts/new/blue_new
+  rotate: true
+  xy: 818, 215
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+mythstones/mythstone_01
+  rotate: true
+  xy: 1003, 167
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+mythstones/mythstone_02
+  rotate: false
+  xy: 867, 165
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+table1/bkg_roof
+  rotate: false
+  xy: 541, 135
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+table1/bottle1_a
+  rotate: true
+  xy: 395, 47
+  size: 93, 144
+  orig: 93, 144
+  offset: 0, 0
+  index: -1
+table1/bottle1_b
+  rotate: false
+  xy: 1074, 224
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+table1/bottle1_c
+  rotate: true
+  xy: 1279, 378
+  size: 13, 69
+  orig: 13, 69
+  offset: 0, 0
+  index: -1
+table1/bottle2_a
+  rotate: true
+  xy: 1935, 432
+  size: 78, 109
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+table1/bottle2_b
+  rotate: true
+  xy: 1035, 235
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+table1/bottle2_c
+  rotate: false
+  xy: 958, 171
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+table1/bottle3_a
+  rotate: false
+  xy: 828, 338
+  size: 122, 168
+  orig: 122, 168
+  offset: 0, 0
+  index: -1
+table1/bottle3_b
+  rotate: false
+  xy: 828, 271
+  size: 109, 65
+  orig: 109, 65
+  offset: 0, 0
+  index: -1
+table1/bottle3_c
+  rotate: true
+  xy: 720, 15
+  size: 118, 64
+  orig: 118, 64
+  offset: 0, 0
+  index: -1
+table1/bottle3_d
+  rotate: false
+  xy: 1350, 369
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+table1/bottle3_e
+  rotate: false
+  xy: 541, 53
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+table1/bottle3_f
+  rotate: true
+  xy: 720, 9
+  size: 4, 55
+  orig: 4, 55
+  offset: 0, 0
+  index: -1
+table1/bottle4_a
+  rotate: true
+  xy: 952, 305
+  size: 77, 135
+  orig: 77, 135
+  offset: 0, 0
+  index: -1
+table1/bottle4_b
+  rotate: true
+  xy: 791, 232
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+table1/bottle4_c
+  rotate: true
+  xy: 1347, 325
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+table1/candle1
+  rotate: true
+  xy: 1159, 223
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+table1/candle2
+  rotate: false
+  xy: 1533, 356
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+table1/cover
+  rotate: false
+  xy: 2, 182
+  size: 411, 134
+  orig: 411, 134
+  offset: 0, 0
+  index: -1
+table1/eye
+  rotate: false
+  xy: 1826, 428
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+table1/fire1
+  rotate: false
+  xy: 1041, 190
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+table1/fireglow1
+  rotate: false
+  xy: 1259, 291
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+table1/fireglow2
+  rotate: false
+  xy: 888, 215
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+table1/metal1
+  rotate: false
+  xy: 1098, 489
+  size: 283, 21
+  orig: 283, 21
+  offset: 0, 0
+  index: -1
+table1/metal2
+  rotate: false
+  xy: 1591, 356
+  size: 58, 12
+  orig: 58, 12
+  offset: 0, 0
+  index: -1
+table1/papel
+  rotate: true
+  xy: 1419, 356
+  size: 73, 112
+  orig: 73, 112
+  offset: 0, 0
+  index: -1
+table1/roof1
+  rotate: false
+  xy: 2, 318
+  size: 619, 192
+  orig: 619, 192
+  offset: 0, 0
+  index: -1
+table1/roof_decor_1
+  rotate: true
+  xy: 1089, 286
+  size: 35, 168
+  orig: 35, 168
+  offset: 0, 0
+  index: -1
+table1/roof_decor_2
+  rotate: true
+  xy: 1092, 378
+  size: 37, 185
+  orig: 37, 185
+  offset: 0, 0
+  index: -1
+table1/roof_decor_3
+  rotate: false
+  xy: 939, 223
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+table1/rope
+  rotate: true
+  xy: 1400, 333
+  size: 34, 8
+  orig: 34, 8
+  offset: 0, 0
+  index: -1
+table1/scroll1
+  rotate: false
+  xy: 167, 131
+  size: 218, 49
+  orig: 218, 49
+  offset: 0, 0
+  index: -1
+table1/scroll2
+  rotate: false
+  xy: 1419, 431
+  size: 143, 57
+  orig: 143, 57
+  offset: 0, 0
+  index: -1
+table1/table1
+  rotate: false
+  xy: 564, 5
+  size: 154, 67
+  orig: 154, 67
+  offset: 0, 0
+  index: -1
+table1/table2
+  rotate: false
+  xy: 297, 6
+  size: 96, 123
+  orig: 96, 123
+  offset: 0, 0
+  index: -1
+table1/tubes
+  rotate: false
+  xy: 952, 384
+  size: 138, 122
+  orig: 138, 122
+  offset: 0, 0
+  index: -1
+table1/wood1
+  rotate: false
+  xy: 1781, 425
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+table1/wood2
+  rotate: false
+  xy: 387, 151
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+table1/wood3
+  rotate: true
+  xy: 1734, 430
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+table2/book1
+  rotate: false
+  xy: 415, 208
+  size: 189, 108
+  orig: 189, 113
+  offset: 0, 5
+  index: -1
+table2/book10
+  rotate: false
+  xy: 606, 240
+  size: 183, 61
+  orig: 183, 61
+  offset: 0, 0
+  index: -1
+table2/book11
+  rotate: false
+  xy: 1570, 471
+  size: 181, 39
+  orig: 181, 39
+  offset: 0, 0
+  index: -1
+table2/book12
+  rotate: false
+  xy: 1753, 468
+  size: 180, 42
+  orig: 180, 42
+  offset: 0, 0
+  index: -1
+table2/book2
+  rotate: false
+  xy: 541, 74
+  size: 177, 59
+  orig: 177, 59
+  offset: 0, 0
+  index: -1
+table2/book3
+  rotate: false
+  xy: 415, 142
+  size: 179, 42
+  orig: 179, 42
+  offset: 0, 0
+  index: -1
+table2/book4
+  rotate: false
+  xy: 606, 178
+  size: 182, 60
+  orig: 182, 60
+  offset: 0, 0
+  index: -1
+table2/book5
+  rotate: false
+  xy: 1383, 490
+  size: 185, 20
+  orig: 185, 20
+  offset: 0, 0
+  index: -1
+table2/book6
+  rotate: false
+  xy: 395, 7
+  size: 167, 38
+  orig: 167, 38
+  offset: 0, 0
+  index: -1
+table2/book7
+  rotate: false
+  xy: 596, 135
+  size: 179, 41
+  orig: 179, 41
+  offset: 0, 0
+  index: -1
+table2/book8
+  rotate: false
+  xy: 1564, 433
+  size: 168, 36
+  orig: 168, 36
+  offset: 0, 0
+  index: -1
+table2/book9
+  rotate: false
+  xy: 415, 186
+  size: 185, 20
+  orig: 185, 20
+  offset: 0, 0
+  index: -1
+table2/paper
+  rotate: false
+  xy: 1092, 417
+  size: 189, 70
+  orig: 189, 70
+  offset: 0, 0
+  index: -1
+table2/runestone1
+  rotate: false
+  xy: 1591, 370
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+table2/runestone2
+  rotate: false
+  xy: 1656, 370
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+table2/scroll3
+  rotate: false
+  xy: 2, 33
+  size: 163, 147
+  orig: 163, 153
+  offset: 0, 6
+  index: -1

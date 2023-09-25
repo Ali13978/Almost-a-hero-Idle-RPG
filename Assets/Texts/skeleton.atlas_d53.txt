@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/Layer 101
+  rotate: false
+  xy: 354, 64
+  size: 30, 88
+  orig: 30, 88
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0001
+  rotate: false
+  xy: 199, 154
+  size: 185, 100
+  orig: 185, 100
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0002
+  rotate: false
+  xy: 2, 54
+  size: 195, 200
+  orig: 195, 200
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0003
+  rotate: false
+  xy: 386, 159
+  size: 139, 95
+  orig: 139, 95
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0004
+  rotate: false
+  xy: 199, 67
+  size: 153, 85
+  orig: 153, 85
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0005
+  rotate: false
+  xy: 386, 66
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0006
+  rotate: false
+  xy: 527, 149
+  size: 124, 105
+  orig: 124, 105
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0007
+  rotate: false
+  xy: 653, 149
+  size: 124, 105
+  orig: 124, 105
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0008
+  rotate: false
+  xy: 779, 150
+  size: 124, 104
+  orig: 124, 104
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0009
+  rotate: true
+  xy: 905, 130
+  size: 124, 104
+  orig: 124, 104
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0010
+  rotate: false
+  xy: 779, 46
+  size: 124, 102
+  orig: 124, 102
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0011
+  rotate: true
+  xy: 905, 4
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+assets/explosion/explosion_0012
+  rotate: false
+  xy: 2, 29
+  size: 124, 23
+  orig: 124, 23
+  offset: 0, 0
+  index: -1
+assets/flame
+  rotate: false
+  xy: 93, 2
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+assets/rocket
+  rotate: false
+  xy: 515, 67
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+assets/rocket_scientist
+  rotate: false
+  xy: 550, 67
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+assets/shadow
+  rotate: false
+  xy: 2, 6
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1

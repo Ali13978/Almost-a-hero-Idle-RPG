@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0b0ffbe19424484e9d2da7a6457e27d2
+timeCreated: 1599083143
+licenseType: Free
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: heroes/druid
+  assetBundleVariant: 

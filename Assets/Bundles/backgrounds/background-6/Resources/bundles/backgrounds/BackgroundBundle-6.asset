@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4853b7c14531573e3d16c75bc7b7714, type: 3}
+  m_Name: "BackgroundBundle-6"
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: a9131b7cd0964026b8099f1ed3b35047, type: 3}
+  prefab: {fileID: -6274891535469565922, guid: c53178883cd34a389b766446ac542be2, type: 2}

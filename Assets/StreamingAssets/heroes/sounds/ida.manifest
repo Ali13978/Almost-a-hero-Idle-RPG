@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3849874024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1224eab977965f8b25582232e0154a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_pas2_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_pas2_3.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_pas2_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/attack_1_swing.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_env_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/Vexx_Ulti_init_effect.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/Vexx_Attack_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/attack_3_swing.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_levelup_4.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_revive_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_emote_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_death_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/attack_2_swing.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_levelup_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_pas1_3.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_emote_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_levelup_3.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_direct_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_pas2_4.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_emote_13.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_death_3.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/Vexx_Ability_2_hit_ground.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_ultimate_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_levelup_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/Vexx_Ulti_hit_ground_3.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_revive_3.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/Vexx_Ability_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_direct_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_pas1_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/Vexx_Attack_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_pas1_4.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/Vexx_Attack_3.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_direct_3.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_ultimate_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/Vexx_Ulti_hit_ground_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_pas1_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_death_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/Vexx_Ulti_hit_ground_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_env_1.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/fx/ida/Vexx_Ability_2_init_hands.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_revive_2.wav
+- Assets/Bundles/heroes/sounds/ida/Resources/sound/hero/vo/vexx/vo_vexx_levelup_5.wav
+Dependencies: []

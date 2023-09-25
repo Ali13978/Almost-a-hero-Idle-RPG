@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 4122251842
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efa593fd6c8b3f775ee2fe3044ffb9c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Revive1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Ultimate1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Emotes9.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Ultimate4.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Emotes8.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/fx/goblin(redoh)/Redroh_Attack_1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Spawn1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/XtraEmote2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Passive2_4.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Death1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/LevelUp5.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Emotes4.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Greeting1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/EnvironmentComment1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Greeting3.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Death3.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Emotes7.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Passive1_4.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/fx/goblin(redoh)/Redroh_Attack_2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Passive2_2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/LevelUp2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Death2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Ultimate3.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/fx/goblin(redoh)/Redroh_Idle_2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/EnvironmentComment2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Emotes1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/XtraEmote4.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/XtraEmote1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Emotes5.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Spawn2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Ultimate2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Passive1_2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Passive2_3.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Spawn3.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/XtraEmote5.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/LevelUp1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Greeting2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/fx/goblin(redoh)/Redroh_Passive_2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Emotes6.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/fx/goblin(redoh)/Lanzar_proyectil_redroh.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Passive2_1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Passive1_1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/fx/goblin(redoh)/Redroh_Death.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/fx/goblin(redoh)/Redroh_Passive_1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/DirectAddress2.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/DirectAddress3.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/XtraEmote3.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/LevelUp4.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/DirectAddress1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/fx/goblin(redoh)/Redroh_Ultimate.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/fx/goblin(redoh)/Redroh_Idle_1.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/LevelUp3.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/XtraEmote6.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Revive3.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Passive1_3.wav
+- Assets/Bundles/heroes/sounds/goblin/Resources/sound/hero/vo/goblin/Revive2.wav
+Dependencies: []

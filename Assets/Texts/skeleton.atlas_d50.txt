@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flame_orange
+  rotate: true
+  xy: 2, 104
+  size: 150, 271
+  orig: 150, 271
+  offset: 0, 0
+  index: -1
+flame_small
+  rotate: false
+  xy: 252, 52
+  size: 14, 50
+  orig: 14, 50
+  offset: 0, 0
+  index: -1
+flame_small02
+  rotate: true
+  xy: 2, 5
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+flame_small03
+  rotate: false
+  xy: 275, 155
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+flame_yellow
+  rotate: false
+  xy: 204, 2
+  size: 46, 100
+  orig: 46, 100
+  offset: 0, 0
+  index: -1
+meteor
+  rotate: false
+  xy: 275, 207
+  size: 39, 47
+  orig: 43, 51
+  offset: 2, 2
+  index: -1
+trail
+  rotate: true
+  xy: 2, 16
+  size: 86, 200
+  orig: 86, 200
+  offset: 0, 0
+  index: -1

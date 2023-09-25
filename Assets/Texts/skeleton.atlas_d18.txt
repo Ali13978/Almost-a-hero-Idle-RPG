@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cauldron01
+  rotate: false
+  xy: 2, 2
+  size: 110, 98
+  orig: 110, 98
+  offset: 0, 0
+  index: -1
+cauldron02
+  rotate: false
+  xy: 114, 51
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1

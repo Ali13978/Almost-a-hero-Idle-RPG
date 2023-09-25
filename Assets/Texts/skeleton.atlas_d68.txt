@@ -1,0 +1,279 @@
+
+skeleton.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/_effects/2
+  rotate: false
+  xy: 1413, 173
+  size: 100, 5
+  orig: 100, 5
+  offset: 0, 0
+  index: -1
+assets/_effects/dust_02/dust_0001
+  rotate: false
+  xy: 1413, 180
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+assets/_effects/dust_02/dust_0002
+  rotate: false
+  xy: 1708, 168
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+assets/_effects/dust_02/dust_0003
+  rotate: true
+  xy: 1796, 175
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+assets/_effects/dust_02/dust_0004
+  rotate: true
+  xy: 1617, 166
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+assets/_effects/dust_02/dust_0005
+  rotate: false
+  xy: 1888, 177
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+assets/_effects/dust_02/dust_0006
+  rotate: false
+  xy: 1522, 173
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+assets/_effects/dust_02/dust_0007
+  rotate: false
+  xy: 1044, 96
+  size: 75, 45
+  orig: 76, 47
+  offset: 0, 2
+  index: -1
+assets/_effects/dust_02/dust_0008
+  rotate: true
+  xy: 342, 17
+  size: 68, 41
+  orig: 93, 89
+  offset: 3, 48
+  index: -1
+assets/_effects/dust_02/dust_particle5
+  rotate: false
+  xy: 676, 93
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+assets/_effects/smoke01
+  rotate: false
+  xy: 2, 4
+  size: 97, 42
+  orig: 97, 42
+  offset: 0, 0
+  index: -1
+assets/_effects/smoke02
+  rotate: false
+  xy: 375, 88
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+assets/_effects/smoke03
+  rotate: false
+  xy: 767, 129
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+assets/_effects/stone
+  rotate: true
+  xy: 720, 93
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+assets/arm
+  rotate: true
+  xy: 1196, 169
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+assets/arm2
+  rotate: false
+  xy: 1075, 172
+  size: 119, 82
+  orig: 119, 82
+  offset: 0, 0
+  index: -1
+assets/axe
+  rotate: true
+  xy: 184, 124
+  size: 130, 255
+  orig: 130, 255
+  offset: 0, 0
+  index: -1
+assets/beard
+  rotate: true
+  xy: 628, 150
+  size: 104, 169
+  orig: 104, 169
+  offset: 0, 0
+  index: -1
+assets/belt
+  rotate: false
+  xy: 184, 87
+  size: 189, 35
+  orig: 189, 35
+  offset: 0, 0
+  index: -1
+assets/body
+  rotate: false
+  xy: 2, 48
+  size: 180, 206
+  orig: 180, 206
+  offset: 0, 0
+  index: -1
+assets/eyebrow
+  rotate: false
+  xy: 342, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+assets/eyebrow2
+  rotate: false
+  xy: 101, 5
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+assets/fingers
+  rotate: false
+  xy: 1981, 194
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+assets/foot
+  rotate: false
+  xy: 1075, 143
+  size: 93, 27
+  orig: 93, 27
+  offset: 0, 0
+  index: -1
+assets/foot2
+  rotate: false
+  xy: 101, 21
+  size: 81, 25
+  orig: 81, 25
+  offset: 0, 0
+  index: -1
+assets/forearm
+  rotate: false
+  xy: 184, 2
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+assets/forearm2
+  rotate: true
+  xy: 1313, 167
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+assets/hair
+  rotate: true
+  xy: 945, 102
+  size: 39, 97
+  orig: 39, 97
+  offset: 0, 0
+  index: -1
+assets/hair_1
+  rotate: false
+  xy: 385, 40
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+assets/hand
+  rotate: true
+  xy: 545, 93
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+assets/hand2
+  rotate: true
+  xy: 613, 94
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+assets/head
+  rotate: true
+  xy: 799, 112
+  size: 142, 144
+  orig: 142, 144
+  offset: 0, 0
+  index: -1
+assets/hips
+  rotate: false
+  xy: 441, 157
+  size: 185, 97
+  orig: 185, 97
+  offset: 0, 0
+  index: -1
+assets/leg
+  rotate: false
+  xy: 441, 98
+  size: 102, 57
+  orig: 102, 57
+  offset: 0, 0
+  index: -1
+assets/leg2
+  rotate: true
+  xy: 277, 2
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+assets/moustage
+  rotate: true
+  xy: 1121, 104
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+assets/moustage2
+  rotate: true
+  xy: 1981, 166
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+assets/shadow-1
+  rotate: false
+  xy: 676, 127
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+assets/shoulder
+  rotate: false
+  xy: 945, 143
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1

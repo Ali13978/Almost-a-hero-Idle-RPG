@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+  m_Name: "charm_upgrade_FX_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 201079f950b0486aa8f4c9bcb21008ec, type: 3}
+  materials:
+  - {fileID: 2100000, guid: b3977ff0edf5443ab1384ac28919a7bd, type: 2}

@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/weapon_1
+  rotate: false
+  xy: 2, 2
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+assets/weapon_2
+  rotate: false
+  xy: 68, 21
+  size: 80, 99
+  orig: 80, 99
+  offset: 0, 0
+  index: -1
+assets/weapon_3
+  rotate: false
+  xy: 150, 13
+  size: 66, 107
+  orig: 66, 107
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 019892dc31364b2d8c5c1443f265e044
+timeCreated: 1599083031
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "AlmostaHero-Med"
+  fontNames:
+  - Almost a Hero
+  - Noto Sans CJK JP
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

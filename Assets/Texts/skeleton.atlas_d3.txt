@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect
+  rotate: false
+  xy: 2, 2
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 93, 6
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+weapon_gasmask
+  rotate: true
+  xy: 47, 2
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+weapon_scientist
+  rotate: true
+  xy: 47, 25
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1

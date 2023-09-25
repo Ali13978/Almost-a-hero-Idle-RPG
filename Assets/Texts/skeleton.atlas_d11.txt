@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/black
+  rotate: false
+  xy: 2, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+assets/blue
+  rotate: false
+  xy: 26, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+assets/enemy_effect_optimize
+  rotate: false
+  xy: 50, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

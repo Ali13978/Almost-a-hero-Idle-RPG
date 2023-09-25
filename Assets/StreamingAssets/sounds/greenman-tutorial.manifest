@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 367693101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3db4f51a5f6809fc3f17bdf54c0849c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/sounds/greenman-tutorial/Resources/sound/vo/greenman/Greenman_phrase_5.wav
+- Assets/Bundles/sounds/greenman-tutorial/Resources/sound/vo/greenman/Greenman_phrase_1.wav
+- Assets/Bundles/sounds/greenman-tutorial/Resources/sound/vo/greenman/Greenman_phrase_6.wav
+- Assets/Bundles/sounds/greenman-tutorial/Resources/sound/vo/greenman/Greenman_phrase_3.wav
+- Assets/Bundles/sounds/greenman-tutorial/Resources/sound/vo/greenman/Greenman_phrase_4.wav
+- Assets/Bundles/sounds/greenman-tutorial/Resources/sound/vo/greenman/Greenman_phrase_2.wav
+Dependencies: []

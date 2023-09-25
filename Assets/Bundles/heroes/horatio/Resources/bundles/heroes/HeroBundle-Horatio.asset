@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+  m_Name: "HeroBundle-Horatio"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7921717600703749575, guid: 00b0450223214bebb19f43cb8bd08bb6, type: 2}
+  animation: {fileID: 11400000, guid: 1844273282c749fb8cd049512761e7d8, type: 2}
+  SelectedAudioClips:
+  - {fileID: 8300000, guid: 2c2a3adf049b45fda7761b57ea197278, type: 3}
+  - {fileID: 8300000, guid: 325cb8e82f6a41ecb6d3fc8834aeea6f, type: 3}
+  - {fileID: 8300000, guid: 9a471c0ca8ab487cbff63e187fa3c8f0, type: 3}
+  - {fileID: 8300000, guid: cc79cc4bfa504ac9b328aea7e4507391, type: 3}
+  UpgradeItemAudioClips:
+  - {fileID: 8300000, guid: c0d68a56251e450cb1e6ae600b14225f, type: 3}
+  - {fileID: 8300000, guid: f6c1d276fc0042c68b3af0ace11b8a2a, type: 3}
+  - {fileID: 8300000, guid: ed493071e45e4a27bcdb613a9f237959, type: 3}
+  - {fileID: 8300000, guid: 1cc391f47bc54a18b2ff8f1be2b59674, type: 3}
+  - {fileID: 8300000, guid: c8ed34961d334b9f9edd3e381ea83980, type: 3}

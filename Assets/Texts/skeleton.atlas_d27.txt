@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/end/end0001
+  rotate: false
+  xy: 80, 2
+  size: 71, 72
+  orig: 95, 110
+  offset: 20, 0
+  index: -1
+assets/end/end0002
+  rotate: true
+  xy: 458, 47
+  size: 79, 88
+  orig: 95, 110
+  offset: 10, 3
+  index: -1
+assets/end/end0003
+  rotate: true
+  xy: 548, 42
+  size: 84, 87
+  orig: 95, 110
+  offset: 0, 15
+  index: -1
+assets/end/end0004
+  rotate: false
+  xy: 637, 46
+  size: 78, 80
+  orig: 95, 110
+  offset: 0, 30
+  index: -1
+assets/end/end0005
+  rotate: true
+  xy: 2, 2
+  size: 72, 76
+  orig: 95, 110
+  offset: 0, 31
+  index: -1
+assets/lighting
+  rotate: false
+  xy: 153, 2
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+assets/loop/flash_0001
+  rotate: true
+  xy: 2, 76
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+assets/loop/flash_0002
+  rotate: true
+  xy: 154, 76
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+assets/loop/flash_0003
+  rotate: true
+  xy: 153, 24
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+assets/loop/flash_0004
+  rotate: true
+  xy: 306, 76
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+assets/tap
+  rotate: false
+  xy: 305, 44
+  size: 136, 30
+  orig: 136, 30
+  offset: 0, 0
+  index: -1

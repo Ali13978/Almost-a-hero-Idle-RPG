@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3031549073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8905ab6ac5b4efed8d087abbea0914ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 259b2539cf2247197a34b3d0bdca6e5a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4dea6743a0e09a28b28868c91e251cca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 491cbc8ebaf0a0b48bb46d8649927d5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/ingameassets/wendle/Materials/Sprites-Default.mat
+- Assets/Bundles/heroes/ingameassets/wendle/Images/wendle_projectile.png
+- Assets/Bundles/heroes/ingameassets/wendle/Resources/bundles/heroes/ingameasset/WendleInGameAssetsBundle.asset
+- Assets/Bundles/heroes/ingameassets/wendle/MonoBehaviour/skeleton_Atlas.asset
+- Assets/Resources/prefabs/projectilesstill/DerekMeteor.prefab
+- Assets/Bundles/heroes/ingameassets/wendle/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Bundles/heroes/ingameassets/wendle/Images/wendle_projectile_1.png
+- Assets/Bundles/heroes/ingameassets/wendle/Images/skeleton.png
+- Assets/Bundles/heroes/ingameassets/wendle/Materials/skeleton_Material.mat
+- Assets/Bundles/heroes/ingameassets/wendle/Texts/skeleton.atlas.txt
+- Assets/Resources/prefabs/projectilesstill/DerekMagicBall.prefab
+- Assets/Bundles/heroes/ingameassets/wendle/Texts/skeleton.skel.bytes
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

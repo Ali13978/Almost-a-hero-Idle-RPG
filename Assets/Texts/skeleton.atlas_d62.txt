@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bright_critChance
+  rotate: true
+  xy: 96, 28
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+glow_critChance
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+horseshoe_critChance
+  rotate: true
+  xy: 58, 11
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1

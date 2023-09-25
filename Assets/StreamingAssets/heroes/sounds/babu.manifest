@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 666827804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9de53b85f20a0de4120945c074074b49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Ultimate 2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Passive 1_1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Passive 2_1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Greeting 2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Ultimate 4.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/fx/babu/Nanna_attack_2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/fx/babu/Nanna_passive_2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/fx/babu/Nanna_passive_1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Passive 1_4.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Environment comment
+  2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/fx/babu/Nanna_ultimate_end.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Greeting 3.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Environment comment
+  1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Xtra Emote 2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Spawn 3.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Spawn 2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Passive 2_3.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Greeting 1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Spawn 1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Death 1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Emotes 9 GESTURE.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Revive 2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Revive 1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Level Up 1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Emotes 4 SPOKEN.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Level Up 4.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Emotes 2 SPOKEN.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Level Up 5.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Revive 3.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/fx/babu/Nanna_death_ultimate.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Death 3.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Emotes 6 GESTURE.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Level Up 3.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/fx/babu/Nanna_ultimate_start.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Death 2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Level Up 2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Passive 1_3.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/fx/babu/Nanna_death.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Emotes 3 SPOKEN.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Ultimate 1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Emotes 10 GESTURE.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Xtra Emote 3.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Emotes 8 GESTURE.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Emotes 5 GESTURE.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Passive 1_2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Emotes 7 GESTURE.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Passive 2_2.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/fx/babu/Projectileimpact.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/fx/babu/Nanna_ultimate_idle.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/fx/babu/Nanna_attack_1.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Passive 2_4.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Ultimate 3.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Emotes 1 SPOKEN.wav
+- Assets/Bundles/heroes/sounds/babu/Resources/sound/hero/vo/babu/Xtra Emote 1.wav
+Dependencies: []

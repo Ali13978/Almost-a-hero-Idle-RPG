@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shield_blue
+  rotate: false
+  xy: 2, 2
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+shield_blue copy
+  rotate: false
+  xy: 2, 89
+  size: 128, 133
+  orig: 128, 133
+  offset: 0, 0
+  index: -1

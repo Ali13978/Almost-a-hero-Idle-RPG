@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83f055d2736079a0670c01a8acebb4c7, type: 3}
+  m_Name: "SamInGameAssetsBundle"
+  m_EditorClassIdentifier: 
+  ProjectileAxe: {fileID: 5109936558494830304, guid: fa2777d4272f41f5b4d03cb1508d3446, type: 2}
+  SmartProjectileBottle: {fileID: 1952890884286239588, guid: 9db0eaca2e6841e7b3382c5b8d66787a, type: 2}
+  BottleExplossion: {fileID: -3069009299863760929, guid: e6de52d86cf6410080fd872e76a84625, type: 2}
+  BottleExplossionAnimData: {fileID: 11400000, guid: 0351bcf018ae462a976c5eb2549510d5, type: 2}

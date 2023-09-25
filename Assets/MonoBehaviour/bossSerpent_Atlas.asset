@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+  m_Name: "bossSerpent_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 934d9ffbf11344109ca2743f0ad7d96b, type: 3}
+  materials:
+  - {fileID: 2100000, guid: ad7259a19ac9424a82242e60673e4433, type: 2}

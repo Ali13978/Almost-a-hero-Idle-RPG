@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/explosion/explosion_0001
+  rotate: false
+  xy: 732, 63
+  size: 61, 61
+  orig: 150, 150
+  offset: 47, 39
+  index: -1
+assets/explosion/explosion_0002
+  rotate: false
+  xy: 115, 10
+  size: 94, 98
+  orig: 150, 150
+  offset: 34, 26
+  index: -1
+assets/explosion/explosion_0003
+  rotate: false
+  xy: 2, 110
+  size: 147, 142
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+assets/explosion/explosion_0004
+  rotate: false
+  xy: 850, 134
+  size: 122, 118
+  orig: 150, 150
+  offset: 10, 13
+  index: -1
+assets/explosion/explosion_0005
+  rotate: true
+  xy: 301, 2
+  size: 118, 122
+  orig: 150, 150
+  offset: 17, 12
+  index: -1
+assets/explosion/explosion_0006
+  rotate: false
+  xy: 151, 114
+  size: 140, 138
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
+assets/explosion/explosion_0007
+  rotate: false
+  xy: 293, 122
+  size: 143, 130
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
+assets/explosion/explosion_0008
+  rotate: false
+  xy: 438, 122
+  size: 143, 130
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
+assets/explosion/explosion_0009
+  rotate: false
+  xy: 583, 119
+  size: 137, 133
+  orig: 150, 150
+  offset: 5, 0
+  index: -1
+assets/explosion/explosion_0010
+  rotate: false
+  xy: 722, 126
+  size: 126, 126
+  orig: 150, 150
+  offset: 11, 9
+  index: -1
+assets/explosion/explosion_0011
+  rotate: false
+  xy: 2, 10
+  size: 111, 98
+  orig: 150, 150
+  offset: 17, 28
+  index: -1
+assets/explosion/explosion_0012
+  rotate: true
+  xy: 211, 2
+  size: 110, 88
+  orig: 150, 150
+  offset: 17, 40
+  index: -1
+assets/explosion/explosion_0013
+  rotate: false
+  xy: 425, 29
+  size: 116, 91
+  orig: 150, 150
+  offset: 14, 40
+  index: -1
+assets/explosion/explosion_0014
+  rotate: false
+  xy: 543, 29
+  size: 116, 88
+  orig: 150, 150
+  offset: 14, 44
+  index: -1
+assets/glow copy
+  rotate: true
+  xy: 974, 152
+  size: 100, 47
+  orig: 100, 47
+  offset: 0, 0
+  index: -1
+assets/ranger_fire_ref
+  rotate: false
+  xy: 661, 11
+  size: 69, 106
+  orig: 78, 106
+  offset: 5, 0
+  index: -1
+assets/speedline1
+  rotate: true
+  xy: 732, 30
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+assets/speedline2
+  rotate: false
+  xy: 425, 7
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1

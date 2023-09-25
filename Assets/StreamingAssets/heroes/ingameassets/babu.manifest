@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 1207620617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25f565174becb7e92c47ba174a0a2a7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77acb990afa5428585ea8df8b796daf3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4dea6743a0e09a28b28868c91e251cca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abd6666c508f912f384689b2d9b6379a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 084342afecbe7411db24cf1f64447717, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/ingameassets/babu/Images/teaCup (3).png
+- Assets/Bundles/heroes/ingameassets/babu/MonoBehaviour/skeleton_Atlas_d1.asset
+- Assets/Bundles/heroes/ingameassets/babu/MonoBehaviour/skeleton_Atlas.asset
+- Assets/Bundles/heroes/ingameassets/babu/Images/teaCup.png
+- Assets/Bundles/heroes/ingameassets/babu/Images/teaCup (1).png
+- Assets/Bundles/heroes/ingameassets/babu/MonoBehaviour/skeleton_SkeletonData_d1.asset
+- Assets/Bundles/heroes/ingameassets/babu/Images/teaCup_Christmas.png
+- Assets/Resources/prefabs/anim/BabuSoupExplosion.prefab
+- Assets/Bundles/heroes/ingameassets/babu/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Bundles/heroes/ingameassets/babu/Texts/skeleton.atlas.txt
+- Assets/Bundles/heroes/ingameassets/babu/Texts/skeleton.skel_d1.bytes
+- Assets/Bundles/heroes/ingameassets/babu/Images/skeleton.png
+- Assets/Bundles/heroes/ingameassets/babu/Materials/Sprites-Default.mat
+- Assets/Bundles/heroes/ingameassets/babu/Texts/skeleton.atlas_d1.txt
+- Assets/Bundles/heroes/ingameassets/babu/Materials/skeleton_Material.mat
+- Assets/Bundles/heroes/ingameassets/babu/Materials/skeleton_Material_d1.mat
+- Assets/Images/skeleton_d92/skeleton.png
+- Assets/Bundles/heroes/ingameassets/babu/Images/teaCup (2).png
+- Assets/Resources/prefabs/projectilesanim/SmartProjectileOrnamentDrop.prefab
+- Assets/Bundles/heroes/ingameassets/babu/Texts/skeleton.skel.bytes
+- Assets/Resources/prefabs/projectilesanim/SmartProjectileBabu.prefab
+- Assets/Bundles/heroes/ingameassets/babu/Resources/bundles/heroes/ingameasset/BabuInGameAssetsBundle.asset
+- Assets/Bundles/heroes/ingameassets/babu/CAB-be9ea8addc678755d0c5ea474731b72a/BabuTeaCup.prefab
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

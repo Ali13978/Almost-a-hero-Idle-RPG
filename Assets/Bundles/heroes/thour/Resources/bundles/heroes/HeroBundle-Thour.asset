@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+  m_Name: "HeroBundle-Thour"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: -8304687924461982565, guid: f0e919fe8bc04e489124b27abb41df8f, type: 2}
+  animation: {fileID: 11400000, guid: aa5859dd80d3401a8cc9f4c868bcdb58, type: 2}
+  SelectedAudioClips:
+  - {fileID: 8300000, guid: 0afebe76f00c4f8bb5f21b95a374bf4d, type: 3}
+  - {fileID: 8300000, guid: e5ce19fb7d27489b866162541bc0f967, type: 3}
+  - {fileID: 8300000, guid: 0b37414c1ce84e558d9c858f8a5d90f6, type: 3}
+  UpgradeItemAudioClips:
+  - {fileID: 8300000, guid: 3643c9606bc7486d8124f2d82390edd5, type: 3}
+  - {fileID: 8300000, guid: 9eb2c6d7b4654aec9daf8a4116612c08, type: 3}
+  - {fileID: 8300000, guid: 24c892be466f4256a5d53a8c2b4b16a2, type: 3}
+  - {fileID: 8300000, guid: 9e19b6b947a64c35a42a960ed34c4d7d, type: 3}
+  - {fileID: 8300000, guid: 220f5d2c295540fba63d9e4d8df0d1e8, type: 3}

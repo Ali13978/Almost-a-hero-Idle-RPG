@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigPack_bot
+  rotate: false
+  xy: 2, 195
+  size: 303, 301
+  orig: 303, 301
+  offset: 0, 0
+  index: -1
+bigPack_top
+  rotate: false
+  xy: 612, 211
+  size: 301, 285
+  orig: 303, 301
+  offset: 1, 8
+  index: -1
+big_glow
+  rotate: false
+  xy: 1512, 35
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+card_back
+  rotate: true
+  xy: 2, 5
+  size: 188, 225
+  orig: 188, 225
+  offset: 0, 0
+  index: -1
+card_in_pack01
+  rotate: false
+  xy: 1804, 257
+  size: 230, 239
+  orig: 230, 239
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: false
+  xy: 637, 134
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+leaf_blue
+  rotate: false
+  xy: 1811, 152
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+leaf_glow
+  rotate: false
+  xy: 1918, 152
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+leaf_whitey
+  rotate: false
+  xy: 1726, 2
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+metal
+  rotate: false
+  xy: 229, 20
+  size: 185, 173
+  orig: 185, 173
+  offset: 0, 0
+  index: -1
+metal_p1
+  rotate: false
+  xy: 1726, 107
+  size: 83, 140
+  orig: 83, 140
+  offset: 0, 0
+  index: -1
+metal_p2
+  rotate: false
+  xy: 416, 59
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+metal_p3
+  rotate: true
+  xy: 569, 94
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+metal_p4
+  rotate: false
+  xy: 870, 157
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+metal_p5
+  rotate: false
+  xy: 720, 164
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+metal_p6
+  rotate: true
+  xy: 933, 160
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+metal_p7
+  rotate: true
+  xy: 800, 155
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+pack01
+  rotate: false
+  xy: 915, 211
+  size: 300, 285
+  orig: 300, 285
+  offset: 0, 0
+  index: -1
+pack02
+  rotate: false
+  xy: 307, 195
+  size: 303, 301
+  orig: 303, 301
+  offset: 0, 0
+  index: -1
+pack03
+  rotate: false
+  xy: 1217, 208
+  size: 293, 288
+  orig: 293, 288
+  offset: 0, 0
+  index: -1
+packglow_blue
+  rotate: false
+  xy: 1512, 249
+  size: 290, 247
+  orig: 290, 247
+  offset: 0, 0
+  index: -1
+particle_blue
+  rotate: false
+  xy: 416, 41
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particle_yellow
+  rotate: false
+  xy: 1811, 134
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attackFast_arrow
+  rotate: false
+  xy: 2, 2
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+speed_ground copy
+  rotate: false
+  xy: 2, 34
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1

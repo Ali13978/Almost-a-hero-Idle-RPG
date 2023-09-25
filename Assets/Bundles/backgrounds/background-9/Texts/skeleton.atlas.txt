@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon
+  rotate: false
+  xy: 2, 51
+  size: 108, 70
+  orig: 108, 70
+  offset: 0, 0
+  index: -1
+dragon_rope
+  rotate: true
+  xy: 2, 2
+  size: 47, 110
+  orig: 47, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3399258114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4b61e0844d5b7b83821a926438e593c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c10570324ff761e885f83123fbf63e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/druid/Images/Ron.png
+- Assets/Bundles/heroes/druid/Resources/bundles/heroes/HeroBundle-Druid.asset
+- Assets/Bundles/heroes/druid/Materials/Ron_Material.mat
+- Assets/Bundles/heroes/druid/Sounds/Selected_1.wav
+- Assets/Bundles/heroes/druid/Sounds/Item Upgrade 1_4.wav
+- Assets/Bundles/heroes/druid/MonoBehaviour/Ron_Atlas.asset
+- Assets/Bundles/heroes/druid/Texts/Ron.atlas.txt
+- Assets/Bundles/heroes/druid/MonoBehaviour/Ron_SkeletonData.asset
+- Assets/Bundles/heroes/druid/Sounds/Direct Address 1_3.wav
+- Assets/Bundles/heroes/druid/Sounds/Item Upgrade 4_4.wav
+- Assets/Bundles/heroes/druid/CAB-2c34c1710e9aefe063715d262a7a26fd/Druid.prefab
+- Assets/Bundles/heroes/druid/Sounds/Item Upgrade 2_6.wav
+- Assets/Bundles/heroes/druid/Sounds/Selected_2.wav
+- Assets/Bundles/heroes/druid/Sounds/Item Upgrade 3_1.wav
+- Assets/Bundles/heroes/druid/Texts/Ron.skel.bytes
+- Assets/Bundles/heroes/druid/Sounds/Item Upgrade 5_4.wav
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

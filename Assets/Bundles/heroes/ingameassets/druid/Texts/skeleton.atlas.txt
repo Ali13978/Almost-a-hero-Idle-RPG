@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/shadow
+  rotate: false
+  xy: 162, 41
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+skunk/body
+  rotate: false
+  xy: 98, 9
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+skunk/eye
+  rotate: true
+  xy: 98, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+skunk/eyebrow
+  rotate: false
+  xy: 350, 40
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+skunk/hand
+  rotate: true
+  xy: 162, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+skunk/hand_b
+  rotate: false
+  xy: 162, 18
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+skunk/head
+  rotate: false
+  xy: 307, 21
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+skunk/leg
+  rotate: false
+  xy: 350, 45
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+skunk/leg_b
+  rotate: false
+  xy: 178, 22
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+skunk/tail
+  rotate: true
+  xy: 2, 5
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+skunk_xmas/head
+  rotate: true
+  xy: 253, 21
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1

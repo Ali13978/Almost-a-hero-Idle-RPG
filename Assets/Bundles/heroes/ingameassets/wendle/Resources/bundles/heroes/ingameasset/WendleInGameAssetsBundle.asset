@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 491cbc8ebaf0a0b48bb46d8649927d5f, type: 3}
+  m_Name: "WendleInGameAssetsBundle"
+  m_EditorClassIdentifier: 
+  ProjectileMagicBall: {fileID: 8808817243157566330, guid: 999b469e9a8247a99211777cc223ceb4, type: 2}
+  ProjectileMeteor: {fileID: -4820581502541836646, guid: c1dbd3868fe946f0917f3339711a405b, type: 2}
+  ProjectileMeteorAnimData: {fileID: 11400000, guid: e728e0e910ee489283b8c0043b09bfa3, type: 2}

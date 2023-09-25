@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 287943244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0a290d554ef7c28010c48cc69b3b2d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/fx/thour/Bellylarf_Attack_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_passive_2_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_level_up_4.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_level_up_3.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_revive_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_death_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_passive_1_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_emote_8.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_emote_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/fx/thour/Bellylarf_Avility_1_chest_hit.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_emote_14.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_revive_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_env_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/fx/thour/Bellylarf_Attack_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_passive_2_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_spawn_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/fx/thour/Bellylarf_Ulti_Attack_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_passive_2_3.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_level_up_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_spawn_3.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_greeting_3.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_passive_1_4.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_level_up_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_env_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/fx/thour/Bellylarf_Attack_3.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/fx/thour/Bellylarf_Ulti.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_ultimate_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_ultimate_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/fx/thour/Bellylarf_Ulti_Attack_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_death_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_level_up_5.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_emote_13.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_greeting_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_death_3.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_passive_2_4.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/fx/thour/Bellylarf_Ulti_Attack_3.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/fx/thour/Bellylarf_Avility_2_Eat.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_spawn_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_emote_15.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_passive_1_1.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_greeting_2.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_passive_1_3.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_emote_9.wav
+- Assets/Bundles/heroes/sounds/thour/Resources/sound/hero/vo/bellylarf/vo_bellylarf_revive_3.wav
+Dependencies: []

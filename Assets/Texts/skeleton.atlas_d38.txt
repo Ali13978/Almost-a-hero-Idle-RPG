@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice_01
+  rotate: true
+  xy: 307, 24
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+ice_02
+  rotate: true
+  xy: 206, 27
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+ice_03
+  rotate: false
+  xy: 420, 49
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+ice_04
+  rotate: true
+  xy: 260, 26
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+ice_05
+  rotate: true
+  xy: 350, 25
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+ice_06
+  rotate: false
+  xy: 393, 36
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+ice_particle
+  rotate: false
+  xy: 2, 2
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 2, 27
+  size: 202, 35
+  orig: 202, 35
+  offset: 0, 0
+  index: -1

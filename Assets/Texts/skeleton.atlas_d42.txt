@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_red
+  rotate: false
+  xy: 73, 66
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+glow_square
+  rotate: false
+  xy: 73, 46
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+red_shield
+  rotate: false
+  xy: 2, 47
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+red_shield_01
+  rotate: true
+  xy: 183, 79
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+red_shield_02
+  rotate: false
+  xy: 125, 84
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+red_shield_03
+  rotate: false
+  xy: 225, 91
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+red_shield_04
+  rotate: true
+  xy: 2, 2
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+snake.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 467, 42
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 695, 58
+  size: 66, 68
+  orig: 92, 97
+  offset: 26, 29
+  index: -1
+body2_tint
+  rotate: false
+  xy: 763, 58
+  size: 66, 68
+  orig: 92, 97
+  offset: 26, 29
+  index: -1
+body_tint
+  rotate: true
+  xy: 581, 42
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 908, 75
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+fx/Layer 29
+  rotate: false
+  xy: 344, 61
+  size: 121, 65
+  orig: 121, 65
+  offset: 0, 0
+  index: -1
+fx/Layer 35
+  rotate: false
+  xy: 2, 78
+  size: 175, 48
+  orig: 175, 48
+  offset: 0, 0
+  index: -1
+fx/Layer 38
+  rotate: false
+  xy: 2, 25
+  size: 143, 20
+  orig: 143, 20
+  offset: 0, 0
+  index: -1
+fx/Layer 39
+  rotate: false
+  xy: 961, 96
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+fx/Shape 6
+  rotate: true
+  xy: 871, 59
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+fx/beat_FX
+  rotate: false
+  xy: 831, 80
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 831, 57
+  size: 38, 21
+  orig: 40, 23
+  offset: 1, 1
+  index: -1
+head_tint
+  rotate: false
+  xy: 961, 73
+  size: 38, 21
+  orig: 40, 23
+  offset: 1, 1
+  index: -1
+jaw
+  rotate: false
+  xy: 93, 2
+  size: 44, 21
+  orig: 46, 23
+  offset: 1, 1
+  index: -1
+jaw_tint
+  rotate: false
+  xy: 139, 2
+  size: 44, 21
+  orig: 46, 23
+  offset: 1, 1
+  index: -1
+shadow-1
+  rotate: false
+  xy: 2, 2
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+spike
+  rotate: false
+  xy: 695, 43
+  size: 30, 13
+  orig: 32, 15
+  offset: 1, 1
+  index: -1
+spike_tint
+  rotate: false
+  xy: 208, 82
+  size: 30, 13
+  orig: 32, 15
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 2, 47
+  size: 163, 29
+  orig: 163, 29
+  offset: 0, 0
+  index: -1
+tail_tint
+  rotate: false
+  xy: 179, 97
+  size: 163, 29
+  orig: 163, 29
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 179, 78
+  size: 27, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+tongue_tint
+  rotate: false
+  xy: 167, 59
+  size: 27, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1

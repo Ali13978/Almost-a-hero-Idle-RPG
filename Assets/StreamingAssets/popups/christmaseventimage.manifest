@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4056372596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 916b55b3a012af0668b0bf17b79ea537
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/popups/christmaseventimage/Resources/img/1_opt_1/ui_christmas/Emmet_time.png
+Dependencies: []

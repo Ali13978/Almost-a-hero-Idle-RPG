@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Meteor_Smoke/Metor_Smoe_optimize1
+  rotate: false
+  xy: 576, 86
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+Meteor_Smoke/Metor_Smoe_optimize2
+  rotate: true
+  xy: 695, 216
+  size: 38, 161
+  orig: 38, 161
+  offset: 0, 0
+  index: -1
+Meteor_impact_/Meteor_impact_0001
+  rotate: true
+  xy: 275, 78
+  size: 176, 197
+  orig: 176, 197
+  offset: 0, 0
+  index: -1
+Meteor_impact_/Meteor_impact_optimize copy
+  rotate: true
+  xy: 474, 87
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+Meteor_impact_optimize
+  rotate: false
+  xy: 858, 213
+  size: 107, 41
+  orig: 107, 41
+  offset: 0, 0
+  index: -1
+flame_orange
+  rotate: true
+  xy: 2, 104
+  size: 150, 271
+  orig: 150, 271
+  offset: 0, 0
+  index: -1
+flame_small
+  rotate: false
+  xy: 332, 26
+  size: 14, 50
+  orig: 14, 50
+  offset: 0, 0
+  index: -1
+flame_small02
+  rotate: true
+  xy: 2, 5
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+flame_small03
+  rotate: true
+  xy: 967, 221
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+flame_yellow
+  rotate: false
+  xy: 204, 2
+  size: 46, 100
+  orig: 46, 100
+  offset: 0, 0
+  index: -1
+meteor
+  rotate: false
+  xy: 646, 121
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 474, 212
+  size: 219, 42
+  orig: 219, 42
+  offset: 0, 0
+  index: -1
+stain
+  rotate: false
+  xy: 474, 170
+  size: 161, 40
+  orig: 161, 40
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 252, 6
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+trail
+  rotate: true
+  xy: 2, 16
+  size: 86, 200
+  orig: 86, 200
+  offset: 0, 0
+  index: -1

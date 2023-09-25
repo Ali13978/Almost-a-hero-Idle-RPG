@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 4165838598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bf68036949ba5806425314606b5f142
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/wendel_attack_3.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_spawn_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_pas2_4.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_greeting_3.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_spawn_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/wendel_Ability_2_secuence.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_levelup_4.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/attack_1_land_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/wendel_attack_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_emote_15.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/attack_1_land_3.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/attack_1_throw_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_emote_4.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_emote_11.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_levelup_5.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_spawn_3.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_levelup_3.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_greeting_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_death_3.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_pas1_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_ultimate_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_greeting_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/wendel_Ulti_book_explosion.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_revive_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_pas2_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_env_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/wendel_Ability_2_fireball_impact.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_revive_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_levelup_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_emote_14.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/wendel_Ulti_init.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/wendel_attack_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_pas2_3.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/wendel_Ability_1_book.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_pas2_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_death_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/attack_1_throw_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_emote_16.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_emote_13.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_levelup_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/attack_1_land_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_pas1_1.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_pas1_3.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/wendel_attack_4.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/wendel_Ulti_throw_book.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_pas1_4.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_env_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_revive_3.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_death_2.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/fx/derek/attack_1_land_4.wav
+- Assets/Bundles/heroes/sounds/wendle/Resources/sound/hero/vo/wendle/vo_wendle_ultimate_1.wav
+Dependencies: []

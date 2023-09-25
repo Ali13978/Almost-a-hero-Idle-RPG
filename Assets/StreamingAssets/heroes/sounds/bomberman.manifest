@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 1694198880
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af66bff8471a698f42651e67fada8408
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_env_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_pas1_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_emote_16.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_pas1_4.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Attack_explosion_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_greeting_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_emote_14.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_spawn_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Firework_explosion_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_spawn_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_revive_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_env_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_emote_5.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_pas2_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_death_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_levelup_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_emote_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Ulti_init_effect.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Firework_explosion_5.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Ability_1_full_anim.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_spawn_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Attack_explosion_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Firework_explosion_4.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_levelup_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_emote_15.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_revive_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_pas1_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Attack_explosion_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_ultimate_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_pas1_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Ability_2_throw_dinamite.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_levelup_4.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_death_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_pas2_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_emote_7.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_levelup_5.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_revive_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_pas2_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Ulti_explosion.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_greeting_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_ultimate_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_levelup_3.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_death_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Attack_explosion_4.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_greeting_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Firework_explosion_2.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Attack_explosion_5.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Attack_Match.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Ability_2_catch_dinamite.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/fx/bomberman/Boomer_Firework_explosion_1.wav
+- Assets/Bundles/heroes/sounds/bomberman/Resources/sound/hero/vo/boomer/vo_boomer_pas2_4.wav
+Dependencies: []

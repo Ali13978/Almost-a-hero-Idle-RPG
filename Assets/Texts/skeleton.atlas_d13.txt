@@ -1,0 +1,251 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/boss_arm_l
+  rotate: true
+  xy: 582, 169
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+assets/boss_arm_r
+  rotate: false
+  xy: 400, 100
+  size: 118, 86
+  orig: 118, 86
+  offset: 0, 0
+  index: -1
+assets/boss_cannon
+  rotate: false
+  xy: 520, 105
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+assets/boss_cannon_body
+  rotate: false
+  xy: 2, 153
+  size: 225, 101
+  orig: 225, 101
+  offset: 0, 0
+  index: -1
+assets/boss_fingers_r
+  rotate: false
+  xy: 690, 124
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+assets/boss_foot R
+  rotate: true
+  xy: 411, 8
+  size: 36, 11
+  orig: 36, 11
+  offset: 0, 0
+  index: -1
+assets/boss_foot_L
+  rotate: true
+  xy: 672, 131
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+assets/boss_forarm_l
+  rotate: true
+  xy: 183, 16
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+assets/boss_forearm_r
+  rotate: true
+  xy: 581, 105
+  size: 62, 89
+  orig: 62, 89
+  offset: 0, 0
+  index: -1
+assets/boss_hair
+  rotate: false
+  xy: 356, 5
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+assets/boss_hand_l
+  rotate: true
+  xy: 387, 46
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+assets/boss_hand_r
+  rotate: false
+  xy: 321, 43
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+assets/boss_head
+  rotate: true
+  xy: 698, 156
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+assets/boss_leg R
+  rotate: false
+  xy: 895, 118
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+assets/boss_leg_l
+  rotate: false
+  xy: 246, 42
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+assets/boss_neck
+  rotate: false
+  xy: 895, 181
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+assets/boss_pant
+  rotate: false
+  xy: 2, 2
+  size: 156, 97
+  orig: 156, 97
+  offset: 0, 0
+  index: -1
+assets/boss_shoulder
+  rotate: false
+  xy: 800, 166
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+assets/boss_torso
+  rotate: true
+  xy: 229, 101
+  size: 153, 169
+  orig: 153, 169
+  offset: 0, 0
+  index: -1
+assets/effect/impact_ground0001
+  rotate: false
+  xy: 895, 152
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+assets/effect/impact_ground0002
+  rotate: false
+  xy: 446, 71
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+assets/effect/impact_ground0003
+  rotate: true
+  xy: 198, 94
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+assets/effect/impact_ground0004
+  rotate: false
+  xy: 446, 43
+  size: 68, 26
+  orig: 68, 26
+  offset: 0, 0
+  index: -1
+assets/effect/impact_ground0005
+  rotate: true
+  xy: 958, 153
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+assets/effect/smoke02
+  rotate: true
+  xy: 859, 124
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+assets/effect/smoke03
+  rotate: false
+  xy: 738, 135
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+assets/effect/smoke_escape0001
+  rotate: true
+  xy: 2, 102
+  size: 7, 19
+  orig: 100, 50
+  offset: 48, 12
+  index: -1
+assets/effect/smoke_escape0002
+  rotate: true
+  xy: 325, 2
+  size: 39, 29
+  orig: 100, 50
+  offset: 32, 1
+  index: -1
+assets/effect/smoke_escape0004
+  rotate: false
+  xy: 800, 132
+  size: 57, 32
+  orig: 100, 50
+  offset: 27, 1
+  index: -1
+assets/effect/smoke_escape0006
+  rotate: false
+  xy: 246, 12
+  size: 77, 28
+  orig: 100, 50
+  offset: 15, 1
+  index: -1
+assets/effect/smoke_escape0008
+  rotate: false
+  xy: 102, 110
+  size: 94, 41
+  orig: 100, 50
+  offset: 6, 1
+  index: -1
+assets/effect/smoke_escape0010
+  rotate: false
+  xy: 2, 111
+  size: 98, 40
+  orig: 100, 50
+  offset: 0, 6
+  index: -1
+assets/effect/smoke_escape0011
+  rotate: true
+  xy: 985, 156
+  size: 98, 37
+  orig: 100, 50
+  offset: 1, 11
+  index: -1
+assets/fx_explo
+  rotate: true
+  xy: 400, 188
+  size: 66, 180
+  orig: 66, 180
+  offset: 0, 0
+  index: -1
+assets/shadow
+  rotate: true
+  xy: 160, 19
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1

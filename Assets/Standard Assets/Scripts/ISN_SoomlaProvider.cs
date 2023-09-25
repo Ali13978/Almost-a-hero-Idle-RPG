@@ -1,0 +1,17 @@
+using System;
+
+public enum ISN_SoomlaProvider
+{
+	FACEBOOK,
+	FOURSQUARE,
+	GOOGLE,
+	LINKEDIN,
+	MYSPACE,
+	TWITTER,
+	YAHOO,
+	SALESFORCE,
+	YAMMER,
+	RUNKEEPER,
+	INSTAGRAM,
+	FLICKR
+}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+  m_Name: "HeroBundle-Sheela"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: -6834331060687464797, guid: 319c04deb65d4e5f96318caf35c039d6, type: 2}
+  animation: {fileID: 11400000, guid: bb2f75be2c4443b599bd6c24e19786c8, type: 2}
+  SelectedAudioClips:
+  - {fileID: 8300000, guid: ec050b7220fa4c4abf2c08cd69477385, type: 3}
+  - {fileID: 8300000, guid: ef37a63df47e47be86fc1861f1a5fbb7, type: 3}
+  - {fileID: 8300000, guid: ebf5f5fe60a24bbf85379d00b4a33beb, type: 3}
+  - {fileID: 8300000, guid: 8e3ebd926ce446b98704e85f0f815392, type: 3}
+  UpgradeItemAudioClips:
+  - {fileID: 8300000, guid: 873efb41101f470f9070c9875038de5c, type: 3}
+  - {fileID: 8300000, guid: ec31700513414c73b6112949537815ec, type: 3}
+  - {fileID: 8300000, guid: 2db2c055c7494489860be971b8fd2114, type: 3}
+  - {fileID: 8300000, guid: 3ff2706023cc46c282ef7343b8b36310, type: 3}
+  - {fileID: 8300000, guid: d6f67896ffcc425b8fc9c97240ea075e, type: 3}

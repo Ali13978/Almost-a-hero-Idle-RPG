@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1755756289, guid: dc26f97bed819f1920731a2214c7766d, type: 3}
+  m_Name: "GameSkin"
+  m_EditorClassIdentifier: 
+  m_Font: {fileID: 12800000, guid: 566f34c43eac44cf8eba07257e4e1ff3, type: 3}
+  m_CustomStyles:
+  - 
+  - 
+  - 
+  m_Settings:
+    m_DoubleClickSelectsWord: 1
+    m_TripleClickSelectsLine: 0
+    m_CursorColor: {r: 1.541568E-41, g: 0, b: 0.8, a: 0.8}
+    m_CursorFlashSpeed: 0.8
+    m_SelectionColor: {r: 1, g: 0, b: 0, a: 0}

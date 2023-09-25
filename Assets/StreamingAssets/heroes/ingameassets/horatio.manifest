@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2820805615
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5e28da73532a3b1a5befb5cdd5f664a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 717b4de1359271178c027ffc2db28075
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f23843e9e13d92a91150276245784a6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abd6666c508f912f384689b2d9b6379a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/ingameassets/horatio/Texts/skeleton2.atlas.txt
+- Assets/Bundles/heroes/ingameassets/horatio/MonoBehaviour/skeleton2_Atlas.asset
+- Assets/Bundles/heroes/ingameassets/horatio/MonoBehaviour/skeleton2_SkeletonData.asset
+- Assets/Bundles/heroes/ingameassets/horatio/Texts/skeleton2.skel.bytes
+- Assets/Bundles/heroes/ingameassets/horatio/Resources/bundles/heroes/ingameasset/HoratioInGameAssetsBundle.asset
+- Assets/Bundles/heroes/ingameassets/horatio/Materials/skeleton2_Material.mat
+- Assets/Resources/prefabs/projectilesanim/SmartProjectileHiltExcalibur.prefab
+- Assets/Bundles/heroes/ingameassets/horatio/Images/skeleton2.png
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

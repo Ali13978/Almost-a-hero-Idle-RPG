@@ -1,0 +1,13 @@
+
+skin_buy_glow.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 2
+  size: 558, 561
+  orig: 558, 561
+  offset: 0, 0
+  index: -1

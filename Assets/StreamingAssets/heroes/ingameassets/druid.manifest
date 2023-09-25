@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 2396840108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82635fa6d63b9e65af2e4a7dac0f1d15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7ac17af97af96ed869e32a161997a1e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed763aac04608db2b2bc28deb2a60121, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/ingameassets/druid/Images/skeleton.png
+- Assets/Bundles/heroes/ingameassets/druid/CAB-81126c2cb1c67c2c58c6a3423b517f5e/Stampede.prefab
+- Assets/Bundles/heroes/ingameassets/druid/Images/skeleton_d2/skeleton.png
+- Assets/Bundles/heroes/ingameassets/druid/Resources/bundles/heroes/ingameasset/DruidInGameAssetsBundle.asset
+- Assets/Bundles/heroes/ingameassets/druid/Texts/skeleton.skel_d2.bytes
+- Assets/Bundles/heroes/ingameassets/druid/MonoBehaviour/skeleton_SkeletonData_d2.asset
+- Assets/Bundles/heroes/ingameassets/druid/MonoBehaviour/skeleton_Atlas_d3.asset
+- Assets/Bundles/heroes/ingameassets/druid/Texts/skeleton.atlas_d1.txt
+- Assets/Bundles/heroes/ingameassets/druid/Materials/skeleton_Material.mat
+- Assets/Bundles/heroes/ingameassets/druid/CAB-81126c2cb1c67c2c58c6a3423b517f5e/Moe.prefab
+- Assets/Bundles/heroes/ingameassets/druid/MonoBehaviour/skeleton_Atlas.asset
+- Assets/Bundles/heroes/ingameassets/druid/CAB-81126c2cb1c67c2c58c6a3423b517f5e/Larry.prefab
+- Assets/Bundles/heroes/ingameassets/druid/MonoBehaviour/skeleton_Atlas_d1.asset
+- Assets/Bundles/heroes/ingameassets/druid/Texts/skeleton.skel_d1.bytes
+- Assets/Bundles/heroes/ingameassets/druid/Texts/skeleton.atlas.txt
+- Assets/Bundles/heroes/ingameassets/druid/Materials/skeleton_Material_d3.mat
+- Assets/Bundles/heroes/ingameassets/druid/Materials/skeleton_Material_d1.mat
+- Assets/Bundles/heroes/ingameassets/druid/Materials/skeleton_Material_d2.mat
+- Assets/Images/skeleton_d95/skeleton.png
+- Assets/Bundles/heroes/ingameassets/druid/CAB-81126c2cb1c67c2c58c6a3423b517f5e/Curly.prefab
+- Assets/Bundles/heroes/ingameassets/druid/MonoBehaviour/skeleton_SkeletonData_d1.asset
+- Assets/Bundles/heroes/ingameassets/druid/Texts/skeleton.atlas_d2.txt
+- Assets/Bundles/heroes/ingameassets/druid/MonoBehaviour/skeleton_SkeletonData_d3.asset
+- Assets/Bundles/heroes/ingameassets/druid/Texts/skeleton.atlas_d3.txt
+- Assets/Bundles/heroes/ingameassets/druid/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Bundles/heroes/ingameassets/druid/MonoBehaviour/skeleton_Atlas_d2.asset
+- Assets/Bundles/heroes/ingameassets/druid/Texts/skeleton.skel_d3.bytes
+- Assets/Bundles/heroes/ingameassets/druid/Texts/skeleton.skel.bytes
+- Assets/Bundles/heroes/ingameassets/druid/Images/skeleton_d1/skeleton.png
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

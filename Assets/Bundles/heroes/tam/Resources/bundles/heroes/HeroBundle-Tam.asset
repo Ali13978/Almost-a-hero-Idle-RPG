@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+  m_Name: "HeroBundle-Tam"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: -1280119208849772842, guid: 0fed8087c56241d1a1c751897f6da2d5, type: 2}
+  animation: {fileID: 11400000, guid: 0bf919fe2e2c4729ab4f50ad19faa261, type: 2}
+  SelectedAudioClips:
+  - {fileID: 8300000, guid: 5a225d43514448169d8e9bb9aa2bf4a4, type: 3}
+  - {fileID: 8300000, guid: 23d0a68b5d6f4707b19b75d99af7a74d, type: 3}
+  - {fileID: 8300000, guid: 482ca587d1f9463cba90c5b6169a488e, type: 3}
+  - {fileID: 8300000, guid: e743acb863f945869c5506ecda3d6ef4, type: 3}
+  - {fileID: 8300000, guid: edcb6815d8c4419c8589779b3529bd82, type: 3}
+  - {fileID: 8300000, guid: 803d468c8b6740af92897ea25d151d75, type: 3}
+  - {fileID: 8300000, guid: d052b4efe8e74c759bac7f337f2c0b91, type: 3}
+  UpgradeItemAudioClips:
+  - {fileID: 8300000, guid: 8c04e3287a124271b74e4d9b261aa8a2, type: 3}
+  - {fileID: 8300000, guid: a3a191c59fe243fa92e260574f74ad70, type: 3}
+  - {fileID: 8300000, guid: 13c47e298590431a80de7bab2111cd46, type: 3}
+  - {fileID: 8300000, guid: cff79cc1fa6d4c24acd6676cc97b65c2, type: 3}
+  - {fileID: 8300000, guid: dda15a7ec1924ec895064b954356f30b, type: 3}

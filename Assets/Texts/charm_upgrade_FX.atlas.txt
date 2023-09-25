@@ -1,0 +1,13 @@
+
+charm_upgrade_FX.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

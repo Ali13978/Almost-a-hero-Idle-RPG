@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 1562099755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99e1be334f550cb106126446233ac7eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_pas1_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_env_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_levelup_3.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_emote_13.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_spawn_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_levelup_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_death_3.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_pas2_3.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/Hilt_Ability_1_insert_sword.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_pas2_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_revive_3.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_ultimate_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_levelup_4.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_levelup_7.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_emote_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_pas2_4.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/Hilt_Attack_woosh_3.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/Hilt_Ability_1_take_ground.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_spawn_3.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/Hilt_Attack_woosh_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/Hilt_Ability_2_init_effect.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_greeting_3.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/Hilt_Ulti_init_effect.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_death_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/attack_3.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_emote_15.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_levelup_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_pas1_4.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_levelup_5.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_pas2_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_spawn_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_revive_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/attack_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_emote_8.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/Hilt_Attack_woosh_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/ultimate_loop_end.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/autoactive_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_greeting_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_env_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/Hilt_Ability_1_throw_rock_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_spawn_4.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_revive_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/autoactive_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_emote_16.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_pas1_3.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_levelup_6.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/attack_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_death_2.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/fx/horatio/Hilt_Ulti_sword_whoosh_loop.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_pas1_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_ultimate_1.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_emote_14.wav
+- Assets/Bundles/heroes/sounds/horatio/Resources/sound/hero/vo/hilt/vo_hilt_greeting_2.wav
+Dependencies: []

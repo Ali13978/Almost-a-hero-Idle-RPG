@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3570710186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a0fae0865b38700336ad0b2f48958a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d32cad596f7221c6487e0b7fdc28a18b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 995d3b1b591650e02459c70993a9d222, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/ingameassets/warlock/Resources/bundles/heroes/ingameasset/WarlockInGameAssetsBundle.asset
+- Assets/Bundles/heroes/ingameassets/warlock/MonoBehaviour/warlock_SkeletonData.asset
+- Assets/Bundles/heroes/ingameassets/warlock/Images/warlock.png
+- Assets/Resources/prefabs/projectilesanim/ProjectileWarlock.prefab
+- Assets/Bundles/heroes/ingameassets/warlock/MonoBehaviour/warlock_Atlas.asset
+- Assets/Bundles/heroes/ingameassets/warlock/Materials/warlock_Material.mat
+- Assets/Bundles/heroes/ingameassets/warlock/Texts/warlock.atlas.txt
+- Assets/Bundles/heroes/ingameassets/warlock/Texts/warlock.skel.bytes
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

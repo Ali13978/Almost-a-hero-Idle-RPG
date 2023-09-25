@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottle
+  rotate: false
+  xy: 90, 64
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+phone
+  rotate: false
+  xy: 90, 2
+  size: 23, 60
+  orig: 23, 60
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 20
+  size: 86, 106
+  orig: 86, 106
+  offset: 0, 0
+  index: -1

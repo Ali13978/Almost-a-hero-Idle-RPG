@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/smoke
+  rotate: false
+  xy: 471, 71
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+assets/start/start_0001
+  rotate: true
+  xy: 81, 2
+  size: 49, 51
+  orig: 82, 82
+  offset: 11, 12
+  index: -1
+assets/start/start_0002
+  rotate: true
+  xy: 401, 64
+  size: 62, 68
+  orig: 82, 82
+  offset: 8, 4
+  index: -1
+assets/start/start_0003
+  rotate: true
+  xy: 164, 54
+  size: 72, 76
+  orig: 82, 82
+  offset: 5, 2
+  index: -1
+assets/start/start_0004
+  rotate: false
+  xy: 242, 56
+  size: 75, 70
+  orig: 82, 82
+  offset: 5, 7
+  index: -1
+assets/start/start_0005
+  rotate: false
+  xy: 2, 49
+  size: 77, 77
+  orig: 82, 82
+  offset: 2, 5
+  index: -1
+assets/start/start_0006
+  rotate: true
+  xy: 81, 53
+  size: 73, 81
+  orig: 82, 82
+  offset: 4, 1
+  index: -1
+assets/start/start_0007
+  rotate: true
+  xy: 319, 64
+  size: 62, 80
+  orig: 82, 82
+  offset: 2, 0
+  index: -1
+assets/start/start_0008
+  rotate: true
+  xy: 319, 4
+  size: 58, 72
+  orig: 82, 82
+  offset: 3, 0
+  index: -1

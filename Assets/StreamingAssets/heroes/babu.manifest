@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 1329118779
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0836d88675de6466b6ad6dac9ddba78e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c10570324ff761e885f83123fbf63e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/babu/Sounds/Direct Address 3.wav
+- Assets/Bundles/heroes/babu/Images/healer.png
+- Assets/Bundles/heroes/babu/Sounds/Item Upgrade 5.wav
+- Assets/Bundles/heroes/babu/Sounds/Xtra Emote 4.wav
+- Assets/Bundles/heroes/babu/MonoBehaviour/healer_SkeletonData.asset
+- Assets/Bundles/heroes/babu/Sounds/Xtra Emote 5.wav
+- Assets/Bundles/heroes/babu/Sounds/Item Upgrade 4.wav
+- Assets/Bundles/heroes/babu/Sounds/Xtra Emote 6.wav
+- Assets/Bundles/heroes/babu/Sounds/Direct Address 1..wav
+- Assets/Bundles/heroes/babu/Resources/bundles/heroes/HeroBundle-Babu.asset
+- Assets/Bundles/heroes/babu/Sounds/Item Upgrade 2.wav
+- Assets/Bundles/heroes/babu/Sounds/Item Upgrade 3.wav
+- Assets/Bundles/heroes/babu/Texts/healer.atlas.txt
+- Assets/Bundles/heroes/babu/Sounds/Item Upgrade 1.wav
+- Assets/Bundles/heroes/babu/Sounds/Direct Address 2.wav
+- Assets/Bundles/heroes/babu/MonoBehaviour/healer_Atlas.asset
+- Assets/Bundles/heroes/babu/Materials/healer_Material.mat
+- Assets/Bundles/heroes/babu/Texts/healer.skel.bytes
+- Assets/Bundles/heroes/babu/CAB-91d77eb44aecf303834fac3bccb65583/Babu.prefab
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

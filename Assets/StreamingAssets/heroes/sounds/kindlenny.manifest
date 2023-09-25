@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 3145805451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d83343e3681fc4be7d3d2ba6d06beadb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_env_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_spawn_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Reload.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Attack_shoot_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_greeting_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Ability_2_eat_throw.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/damage3.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_pas2_3.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Ability_1_shoot_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_revive_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/damage2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_pas1_4.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_pas1_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_death_3.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_emote_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_pas2_4.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/revive.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_ultimate_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Attack_shoot_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_pas1_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/death.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_death_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_spawn_3.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_death_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_levelup_4.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_pas1_3.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_ultimate_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_emote_16.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_emote_15.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_greeting_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_levelup_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Ulti_init_effect.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_greeting_3.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_spawn_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Ability_1_init.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_levelup_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Ability_1_shoot_3.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_pas2_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Ulti_shoot_loop.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Attack_shoot_3.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_pas2_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_emote_6.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Ulti_end.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/damage1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_revive_2.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_env_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_levelup_5.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_emote_13.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Attack_shoot_4.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_revive_3.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_emote_14.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/fx/lenny/Lenny_Ability_1_shoot_1.wav
+- Assets/Bundles/heroes/sounds/kindlenny/Resources/sound/hero/vo/lenny/vo_lenny_levelup_3.wav
+Dependencies: []

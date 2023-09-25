@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 132938292
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6e0a88fc8665f0e6e7e3b0f23a83b91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Attack_Knife_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/reload_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_pas2_3.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_spawn_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_levelup_5.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Ability_1_back.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_spawn_3.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_env_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_emote_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_revive_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_death_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_pas2_4.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_env_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_ultimate_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_revive_3.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Ulti_knives_throw_4.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_pas2_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_levelup_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Ability_2_pet_show_attack.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_emote_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_levelup_4.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_death_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_spawn_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Attack_Knife_3.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Attack_Knife_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_pas1_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_greeting_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Ability_2_pet_back.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_pas2_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Attack_Knife_4.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_levelup_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Ulti_knives_throw_3.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_emote_14.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_greeting_3.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_ultimate_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_levelup_3.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_pas1_4.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_death_3.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Ulti_knives_throw_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_revive_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_pas1_3.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Ability_1_attack_fast.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_pas1_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Ulti_init_effect.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/V_Ulti_knives_throw_1.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_emote_11.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_emote_16.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_emote_15.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/fx/sheela/reload_2.wav
+- Assets/Bundles/heroes/sounds/sheela/Resources/sound/hero/vo/v/vo_v_greeting_2.wav
+Dependencies: []

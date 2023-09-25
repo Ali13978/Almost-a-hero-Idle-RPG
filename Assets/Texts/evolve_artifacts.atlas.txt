@@ -1,0 +1,13 @@
+
+evolve_artifacts.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/purple_glow
+  rotate: false
+  xy: 2, 2
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_01
+  rotate: false
+  xy: 196, 39
+  size: 164, 66
+  orig: 170, 70
+  offset: 6, 0
+  index: -1
+fire_02
+  rotate: false
+  xy: 2, 44
+  size: 192, 61
+  orig: 192, 61
+  offset: 0, 0
+  index: -1
+fire_particle
+  rotate: false
+  xy: 2, 2
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1

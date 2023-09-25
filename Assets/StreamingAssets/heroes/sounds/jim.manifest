@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 888012849
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc78ba974c4c3e7d5c0563e54cdc7878
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_Weeping
+  Song_3.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_spawn_2_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_greeting_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_death_2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_death_3.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_pas2_2_short.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_pas2_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_BattleCry_2_V2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_pas1_2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_Weeping
+  Song_2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_revive_2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_emote_11.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_pas2_4.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_greeting_3_short.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_ultimate_2_short.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_death_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_Attack_short_2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_pas1_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_emote_12.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_env_1_short.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_Weeping
+  Song_4.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_spawn_1_short.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_Bittersweet_loop_V2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_pas1_3.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_BattleCry_1_V2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_levelup_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_spawn_3.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_env_2_short.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_levelup_3_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_pas1_4.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_Weeping
+  Song_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_Bittersweet_init_V2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_levelup_2_2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_emote_15.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_revive_3_Short.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_ultimate_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_Attack_short_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_levelup_4.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_pas2_3_short.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/fx/jim/Hansum Jim_Bittersweet_end_V2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_greeting_2.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_levelup_3_2_short.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_levelup_5_short.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_levelup_2_1.wav
+- Assets/Bundles/heroes/sounds/jim/Resources/sound/hero/vo/jim/vo_jim_revive_1.wav
+Dependencies: []

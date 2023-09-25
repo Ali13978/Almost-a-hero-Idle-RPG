@@ -1,0 +1,195 @@
+
+bossSerpent.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_2
+  rotate: true
+  xy: 2, 20
+  size: 82, 167
+  orig: 82, 167
+  offset: 0, 0
+  index: -1
+arm_b
+  rotate: false
+  xy: 1794, 248
+  size: 107, 158
+  orig: 107, 158
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 104
+  size: 406, 620
+  orig: 406, 620
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 624, 259
+  size: 117, 536
+  orig: 117, 536
+  offset: 0, 0
+  index: -1
+cape_b
+  rotate: true
+  xy: 1424, 408
+  size: 102, 492
+  orig: 102, 492
+  offset: 0, 0
+  index: -1
+chin
+  rotate: false
+  xy: 1694, 171
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+eyebrow_b
+  rotate: false
+  xy: 1769, 212
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+eyebrow_f
+  rotate: true
+  xy: 2018, 474
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+fingers_b
+  rotate: false
+  xy: 267, 26
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+forearm_b
+  rotate: false
+  xy: 1529, 237
+  size: 263, 169
+  orig: 263, 169
+  offset: 0, 0
+  index: -1
+forearm_f
+  rotate: false
+  xy: 902, 38
+  size: 259, 219
+  orig: 259, 219
+  offset: 0, 0
+  index: -1
+fx/impact_ground0001
+  rotate: true
+  xy: 1498, 76
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+fx/impact_ground0003
+  rotate: false
+  xy: 337, 32
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+fx/portal
+  rotate: true
+  xy: 1436, 5
+  size: 132, 60
+  orig: 132, 60
+  offset: 0, 0
+  index: -1
+fx/purple_glow
+  rotate: true
+  xy: 423, 60
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+fx/shadow-1
+  rotate: false
+  xy: 1424, 385
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+fx/smoke02_0001
+  rotate: false
+  xy: 902, 16
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: false
+  xy: 1624, 155
+  size: 68, 80
+  orig: 70, 82
+  offset: 1, 1
+  index: -1
+hand_close2
+  rotate: false
+  xy: 171, 20
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: false
+  xy: 1918, 418
+  size: 98, 92
+  orig: 98, 92
+  offset: 0, 0
+  index: -1
+hand_open2
+  rotate: false
+  xy: 1529, 140
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1163, 2
+  size: 135, 271
+  orig: 135, 271
+  offset: 0, 0
+  index: -1
+neckband_2_b
+  rotate: true
+  xy: 337, 63
+  size: 39, 84
+  orig: 39, 84
+  offset: 0, 0
+  index: -1
+neckband_2_f
+  rotate: true
+  xy: 1401, 139
+  size: 237, 126
+  orig: 237, 126
+  offset: 0, 0
+  index: -1
+neckband_b
+  rotate: false
+  xy: 624, 14
+  size: 276, 243
+  orig: 276, 243
+  offset: 0, 0
+  index: -1
+neckband_f
+  rotate: false
+  xy: 1163, 139
+  size: 236, 237
+  orig: 236, 237
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 624, 378
+  size: 132, 798
+  orig: 132, 798
+  offset: 0, 0
+  index: -1

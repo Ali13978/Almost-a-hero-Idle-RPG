@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 3201994975
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a6d3420a7cc8d0af107829a97fca9d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive2_2_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Emotes_Uno_7.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Ultimate_Uno_4.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive2_Uno_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/XtraEmotes_Uno_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Spawn_Uno_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Attack_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Death_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Ultimate_loop.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/XtraEmotes_Uno_5.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Emotes_Uno_8.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Ultimate_Attack_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Ultimate_Uno_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/XtraEmotes_Uno_4.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Emotes_Uno_9.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Spawn_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Ultimate_1_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Ultimate_4_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Spawn_Uno_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive1_4_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Levelup_Uno_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/XtraEmotes_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Ultimate_End.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Ultimate_Attack_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Levelup_Uno_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Revive_Uno_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Passive_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Ultimate_start.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive_Uno_4.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Levelup_Uno_5.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive2_4_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Environment_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Greeting_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive2_1_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Attack_4.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive_Uno_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive2_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive2_Uno_4.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/XtraEmotes_Uno_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Emotes_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Attack_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Death_Uno_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Proyectil_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Passive_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive_Uno_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Ultimate_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Attack_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Ultimate_Uno_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/XtraEmotes_Uno_6.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive1_1_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive1_2_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Levelup_Uno_4.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Uno_Death.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive2_3_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Revive_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Emotes_Uno_6.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Ultimate_3_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Emotes_Uno_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive2_Uno_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Greeting_Uno_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Levelup_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Emotes_Uno_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Greeting_Uno_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Ultimate_2_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive_Uno_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Passive1_3_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Revive_Uno_2.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/fx/warlock(uno)/Proyectil_1.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Death_Uno_3.wav
+- Assets/Bundles/heroes/sounds/warlock/Resources/sound/hero/vo/warlock/Environment_Uno_2.wav
+Dependencies: []

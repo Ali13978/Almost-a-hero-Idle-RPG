@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+  m_Name: "HeroBundle-Babu"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4225491518024358825, guid: 6070793e0dc2426bbf6eb612a17a25bd, type: 2}
+  animation: {fileID: 11400000, guid: ba2deec4ff764b2ea579bb93eec34a7a, type: 2}
+  SelectedAudioClips:
+  - {fileID: 8300000, guid: ece332098d6743be94bc332f493917f1, type: 3}
+  - {fileID: 8300000, guid: 5b304f6d288948fbaca1c7791935b418, type: 3}
+  - {fileID: 8300000, guid: 3d9659d1a916486889c684fdffa63811, type: 3}
+  - {fileID: 8300000, guid: fa76ed84a00f4856a70570b0f0c8b376, type: 3}
+  - {fileID: 8300000, guid: 5090cc95246c47b7bd1804fc0eb8251f, type: 3}
+  - {fileID: 8300000, guid: 26baaea78b4146789ff2f29c77db56ad, type: 3}
+  UpgradeItemAudioClips:
+  - {fileID: 8300000, guid: 78fe16ac1ee54f3ea9d7ee49b39b6018, type: 3}
+  - {fileID: 8300000, guid: d940022bc9654a9d9701b3f9f61aaaf8, type: 3}
+  - {fileID: 8300000, guid: 36c27bfb246a4055a187dc4a1b4ad3da, type: 3}
+  - {fileID: 8300000, guid: 219c0997fe19482e889a0027ab6456e0, type: 3}
+  - {fileID: 8300000, guid: 302931549267444090f5d4462842e63e, type: 3}

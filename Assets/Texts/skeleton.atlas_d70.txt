@@ -1,0 +1,587 @@
+
+skeleton.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/Shape 7
+  rotate: false
+  xy: 2, 5
+  size: 45, 121
+  orig: 45, 121
+  offset: 0, 0
+  index: -1
+assets/_effects/blood/blood_0001
+  rotate: true
+  xy: 1384, 28
+  size: 47, 16
+  orig: 73, 40
+  offset: 0, 2
+  index: -1
+assets/_effects/blood/blood_0002
+  rotate: false
+  xy: 1323, 45
+  size: 59, 30
+  orig: 73, 40
+  offset: 1, 1
+  index: -1
+assets/_effects/blood/blood_0003
+  rotate: false
+  xy: 49, 7
+  size: 62, 33
+  orig: 73, 40
+  offset: 1, 1
+  index: -1
+assets/_effects/blood/blood_0004
+  rotate: false
+  xy: 1307, 7
+  size: 57, 36
+  orig: 73, 40
+  offset: 11, 2
+  index: -1
+assets/_effects/blood/blood_0005
+  rotate: false
+  xy: 182, 26
+  size: 55, 34
+  orig: 73, 40
+  offset: 15, 2
+  index: -1
+assets/_effects/blood/blood_0006
+  rotate: false
+  xy: 294, 27
+  size: 49, 33
+  orig: 73, 40
+  offset: 23, 3
+  index: -1
+assets/_effects/blood/blood_0007
+  rotate: true
+  xy: 1262, 61
+  size: 8, 6
+  orig: 73, 40
+  offset: 59, 4
+  index: -1
+assets/_effects/dust/dust_0001
+  rotate: false
+  xy: 1402, 58
+  size: 64, 45
+  orig: 100, 90
+  offset: 7, 4
+  index: -1
+assets/_effects/dust/dust_0002
+  rotate: false
+  xy: 1914, 75
+  size: 53, 51
+  orig: 100, 90
+  offset: 30, 6
+  index: -1
+assets/_effects/dust/dust_0003
+  rotate: true
+  xy: 239, 11
+  size: 49, 53
+  orig: 100, 90
+  offset: 40, 4
+  index: -1
+assets/_effects/dust/dust_0004
+  rotate: false
+  xy: 1969, 73
+  size: 53, 53
+  orig: 100, 90
+  offset: 43, 14
+  index: -1
+assets/_effects/dust/dust_0005
+  rotate: true
+  xy: 1199, 2
+  size: 54, 55
+  orig: 100, 90
+  offset: 42, 17
+  index: -1
+assets/_effects/dust/dust_0006
+  rotate: true
+  xy: 1207, 71
+  size: 55, 61
+  orig: 100, 90
+  offset: 41, 17
+  index: -1
+assets/_effects/dust/dust_0007
+  rotate: true
+  xy: 1135, 70
+  size: 56, 70
+  orig: 100, 90
+  offset: 40, 16
+  index: -1
+assets/_effects/dust/dust_0008
+  rotate: false
+  xy: 1741, 73
+  size: 55, 53
+  orig: 100, 90
+  offset: 40, 33
+  index: -1
+assets/_effects/dust/dust_0009
+  rotate: false
+  xy: 1798, 75
+  size: 56, 51
+  orig: 100, 90
+  offset: 40, 35
+  index: -1
+assets/_effects/dust/dust_0010
+  rotate: false
+  xy: 1856, 75
+  size: 56, 51
+  orig: 100, 90
+  offset: 40, 36
+  index: -1
+assets/_effects/dust/dust_0011
+  rotate: false
+  xy: 1682, 74
+  size: 57, 52
+  orig: 100, 90
+  offset: 39, 36
+  index: -1
+assets/_effects/dust/dust_0012
+  rotate: false
+  xy: 507, 41
+  size: 30, 19
+  orig: 100, 90
+  offset: 40, 69
+  index: -1
+assets/_effects/dust/dust_0013
+  rotate: false
+  xy: 1235, 58
+  size: 25, 11
+  orig: 100, 90
+  offset: 41, 78
+  index: -1
+assets/_effects/dust/dust_0014
+  rotate: false
+  xy: 1199, 63
+  size: 6, 5
+  orig: 100, 90
+  offset: 42, 79
+  index: -1
+assets/_effects/fluide/effect_green_00000
+  rotate: false
+  xy: 1493, 99
+  size: 64, 27
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00001
+  rotate: false
+  xy: 1069, 61
+  size: 64, 65
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00002
+  rotate: true
+  xy: 996, 57
+  size: 69, 71
+  orig: 70, 100
+  offset: 1, 0
+  index: -1
+assets/_effects/fluide/effect_green_00003
+  rotate: true
+  xy: 922, 61
+  size: 65, 72
+  orig: 70, 100
+  offset: 5, 0
+  index: -1
+assets/_effects/fluide/effect_green_00004
+  rotate: true
+  xy: 845, 61
+  size: 65, 75
+  orig: 70, 100
+  offset: 5, 0
+  index: -1
+assets/_effects/fluide/effect_green_00005
+  rotate: true
+  xy: 605, 61
+  size: 65, 78
+  orig: 70, 100
+  offset: 5, 0
+  index: -1
+assets/_effects/fluide/effect_green_00006
+  rotate: false
+  xy: 115, 44
+  size: 65, 82
+  orig: 70, 100
+  offset: 5, 0
+  index: -1
+assets/_effects/fluide/effect_green_00007
+  rotate: false
+  xy: 49, 42
+  size: 64, 84
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00008
+  rotate: true
+  xy: 182, 62
+  size: 64, 83
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00009
+  rotate: true
+  xy: 267, 62
+  size: 64, 83
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00010
+  rotate: true
+  xy: 352, 62
+  size: 64, 83
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00011
+  rotate: true
+  xy: 437, 62
+  size: 64, 82
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00012
+  rotate: true
+  xy: 521, 62
+  size: 64, 82
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00013
+  rotate: true
+  xy: 685, 62
+  size: 64, 78
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00014
+  rotate: true
+  xy: 765, 62
+  size: 64, 78
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00015
+  rotate: false
+  xy: 1270, 77
+  size: 64, 49
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00016
+  rotate: false
+  xy: 1336, 77
+  size: 64, 49
+  orig: 70, 100
+  offset: 6, 0
+  index: -1
+assets/_effects/fluide/effect_green_00017
+  rotate: false
+  xy: 1559, 77
+  size: 60, 49
+  orig: 70, 100
+  offset: 9, 0
+  index: -1
+assets/_effects/fluide/effect_green_00018
+  rotate: true
+  xy: 1256, 2
+  size: 54, 49
+  orig: 70, 100
+  offset: 14, 0
+  index: -1
+assets/_effects/fluide/effect_green_00019
+  rotate: false
+  xy: 1270, 58
+  size: 51, 17
+  orig: 70, 100
+  offset: 17, 0
+  index: -1
+assets/_effects/fluide/effect_green_00020
+  rotate: false
+  xy: 389, 2
+  size: 36, 17
+  orig: 70, 100
+  offset: 21, 0
+  index: -1
+assets/arm2
+  rotate: false
+  xy: 2024, 101
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+assets/arm2_2
+  rotate: false
+  xy: 455, 6
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+assets/arm4
+  rotate: false
+  xy: 481, 34
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+assets/belt1
+  rotate: false
+  xy: 1207, 58
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+assets/body1
+  rotate: true
+  xy: 345, 32
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+assets/body2
+  rotate: true
+  xy: 345, 2
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+assets/bottom
+  rotate: false
+  xy: 576, 45
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+assets/eyebrow1
+  rotate: false
+  xy: 671, 50
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+assets/eyebrow1_2
+  rotate: false
+  xy: 686, 50
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+assets/eyebrow4
+  rotate: false
+  xy: 1307, 45
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+assets/eyebrow4_2
+  rotate: false
+  xy: 1439, 5
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+assets/fingers1
+  rotate: false
+  xy: 1406, 16
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+assets/food1
+  rotate: false
+  xy: 1490, 68
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+assets/food1_2
+  rotate: false
+  xy: 651, 50
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+assets/food2_2
+  rotate: false
+  xy: 1135, 61
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+assets/foot6
+  rotate: false
+  xy: 1384, 16
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+assets/forearm2
+  rotate: false
+  xy: 1366, 16
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+assets/forearm2_2
+  rotate: false
+  xy: 1490, 79
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+assets/forearm4
+  rotate: true
+  xy: 1427, 18
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+assets/forearm4_2
+  rotate: false
+  xy: 1437, 37
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+assets/hair2_1
+  rotate: true
+  xy: 604, 47
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+assets/hair2_2
+  rotate: true
+  xy: 2024, 75
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+assets/hair6_2
+  rotate: false
+  xy: 453, 31
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+assets/hand1_2
+  rotate: false
+  xy: 632, 42
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+assets/hand2
+  rotate: false
+  xy: 326, 7
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+assets/head2
+  rotate: false
+  xy: 1621, 74
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+assets/head4
+  rotate: false
+  xy: 1069, 2
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+assets/head6
+  rotate: false
+  xy: 1134, 2
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+assets/hips1
+  rotate: false
+  xy: 421, 31
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+assets/hips2
+  rotate: false
+  xy: 389, 21
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+assets/hips3
+  rotate: false
+  xy: 294, 2
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+assets/leg1
+  rotate: true
+  xy: 1366, 2
+  size: 12, 36
+  orig: 12, 36
+  offset: 0, 0
+  index: -1
+assets/leg1_2
+  rotate: true
+  xy: 539, 48
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+assets/shadow
+  rotate: false
+  xy: 1402, 105
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+assets/shin1
+  rotate: true
+  xy: 1402, 37
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+assets/shin2
+  rotate: true
+  xy: 1520, 84
+  size: 13, 33
+  orig: 14, 33
+  offset: 1, 0
+  index: -1
+assets/shin2_2
+  rotate: true
+  xy: 1404, 2
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+assets/shin6
+  rotate: false
+  xy: 1468, 66
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+assets/shoulder1
+  rotate: false
+  xy: 1468, 36
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+assets/shoulder4
+  rotate: false
+  xy: 427, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

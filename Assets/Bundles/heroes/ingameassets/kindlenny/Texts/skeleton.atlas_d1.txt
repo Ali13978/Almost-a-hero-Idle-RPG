@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 512,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/apple_piece 0
+  rotate: false
+  xy: 68, 11
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+assets/apple_piece 1
+  rotate: false
+  xy: 112, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+assets/apple_piece 2
+  rotate: false
+  xy: 265, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+assets/apple_piece 3
+  rotate: false
+  xy: 252, 16
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+assets/apple_piece 4
+  rotate: false
+  xy: 291, 19
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+assets/apple_piece 5
+  rotate: false
+  xy: 98, 2
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+assets/apple_piece 6
+  rotate: false
+  xy: 213, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+assets/apple_weapon_1
+  rotate: false
+  xy: 127, 8
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+assets/blue1
+  rotate: false
+  xy: 174, 10
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+assets/blue2
+  rotate: false
+  xy: 196, 10
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+assets/blue3
+  rotate: false
+  xy: 213, 17
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+assets/blue4
+  rotate: true
+  xy: 249, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+assets/blue5
+  rotate: false
+  xy: 237, 17
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+assets/blue6
+  rotate: true
+  xy: 38, 4
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+assets/effect_explosion
+  rotate: false
+  xy: 151, 9
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+assets/effect_explosion2
+  rotate: true
+  xy: 2, 3
+  size: 3, 19
+  orig: 3, 19
+  offset: 0, 0
+  index: -1
+assets/steampunk_piece 10
+  rotate: false
+  xy: 340, 18
+  size: 11, 12
+  orig: 13, 14
+  offset: 1, 1
+  index: -1
+assets/steampunk_piece 11
+  rotate: false
+  xy: 309, 14
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+assets/steampunk_piece 6
+  rotate: false
+  xy: 98, 14
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+assets/steampunk_piece 7
+  rotate: false
+  xy: 327, 17
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+assets/steampunk_piece 8
+  rotate: true
+  xy: 231, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+assets/steampunk_piece 9
+  rotate: true
+  xy: 272, 19
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+assets/steampunk_piece12
+  rotate: false
+  xy: 2, 8
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1

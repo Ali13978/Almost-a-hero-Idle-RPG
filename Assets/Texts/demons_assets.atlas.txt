@@ -1,0 +1,132 @@
+
+demons_assets.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin1/Shape1
+  rotate: false
+  xy: 37, 8
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+skin1/body
+  rotate: false
+  xy: 384, 22
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+skin1/eye
+  rotate: false
+  xy: 16, 3
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+skin1/mouth_down
+  rotate: true
+  xy: 133, 17
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+skin1/mouth_inside
+  rotate: true
+  xy: 281, 23
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+skin1/mouth_up
+  rotate: true
+  xy: 213, 20
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+skin2/ear
+  rotate: true
+  xy: 247, 2
+  size: 17, 32
+  orig: 19, 34
+  offset: 1, 1
+  index: -1
+skin2/ear_b
+  rotate: true
+  xy: 281, 2
+  size: 19, 24
+  orig: 21, 26
+  offset: 1, 1
+  index: -1
+skin2/eye
+  rotate: true
+  xy: 27, 5
+  size: 9, 8
+  orig: 11, 10
+  offset: 1, 1
+  index: -1
+skin2/mouth_down
+  rotate: true
+  xy: 84, 5
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+skin2/mouth_up
+  rotate: true
+  xy: 416, 30
+  size: 32, 30
+  orig: 34, 32
+  offset: 1, 1
+  index: -1
+skin2/wing
+  rotate: true
+  xy: 2, 16
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1
+skin3/Shape1
+  rotate: false
+  xy: 44, 8
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+skin3/body
+  rotate: false
+  xy: 351, 22
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+skin3/eye
+  rotate: false
+  xy: 2, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+skin3/mouth_down
+  rotate: true
+  xy: 173, 17
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+skin3/mouth_inside
+  rotate: true
+  xy: 316, 23
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+skin3/mouth_up
+  rotate: true
+  xy: 247, 21
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1

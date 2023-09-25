@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle_damageDec
+  rotate: false
+  xy: 2, 67
+  size: 147, 141
+  orig: 147, 141
+  offset: 0, 0
+  index: -1
+damageDec_arrow
+  rotate: false
+  xy: 151, 173
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+damageDec_glow
+  rotate: false
+  xy: 2, 2
+  size: 70, 63
+  orig: 78, 65
+  offset: 4, 1
+  index: -1

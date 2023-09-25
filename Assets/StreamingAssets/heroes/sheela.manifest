@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1342721004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb643ea5f44c85f981d6d92bf93ad42e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c10570324ff761e885f83123fbf63e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sheela/Sounds/vo_v_item_4.wav
+- Assets/Bundles/heroes/sheela/Sounds/vo_v_item_1.wav
+- Assets/Bundles/heroes/sheela/Sounds/vo_v_direct_1.wav
+- Assets/Bundles/heroes/sheela/Sounds/vo_v_emote_8.wav
+- Assets/Bundles/heroes/sheela/Materials/skeleton_Material.mat
+- Assets/Bundles/heroes/sheela/Texts/skeleton.atlas.txt
+- Assets/Bundles/heroes/sheela/Sounds/vo_v_item_2.wav
+- Assets/Bundles/heroes/sheela/Sounds/vo_v_item_3.wav
+- Assets/Bundles/heroes/sheela/Sounds/vo_v_item_5.wav
+- Assets/Bundles/heroes/sheela/Texts/skeleton.skel.bytes
+- Assets/Bundles/heroes/sheela/Resources/bundles/heroes/HeroBundle-Sheela.asset
+- Assets/Bundles/heroes/sheela/Sounds/vo_v_direct_3.wav
+- Assets/Bundles/heroes/sheela/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Bundles/heroes/sheela/Images/skeleton.png
+- Assets/Bundles/heroes/sheela/CAB-107a9d28ac20528155b99403ca7fe1e6/Sheela.prefab
+- Assets/Bundles/heroes/sheela/Sounds/vo_v_emote_4.wav
+- Assets/Bundles/heroes/sheela/MonoBehaviour/skeleton_Atlas.asset
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

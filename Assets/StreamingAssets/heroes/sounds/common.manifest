@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3037818324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07d0d78edc6a0d1bd3a2d6d39305b3f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/common/Resources/sound/hero/fx/common/death2.wav
+- Assets/Bundles/heroes/sounds/common/Resources/sound/hero/fx/common/death1.wav
+- Assets/Bundles/heroes/sounds/common/Resources/sound/hero/fx/common/revive.wav
+- Assets/Bundles/heroes/sounds/common/Resources/sound/hero/fx/common/death3.wav
+Dependencies: []

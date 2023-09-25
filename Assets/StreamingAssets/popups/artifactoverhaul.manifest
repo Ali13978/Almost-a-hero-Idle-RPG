@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3567101372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dffccfea2b6d86aae561bdd793dd8485
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d2e4740418abe862a6219161ce2f9ff
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64fdbb73301f6ba9c7ae79efadce4509, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/popups/artifactoverhaul/Images/alchemisto1.png
+- Assets/Bundles/popups/artifactoverhaul/Images/alchemisto2.png
+- Assets/Bundles/popups/artifactoverhaul/Resources/bundles/ui/ArtifactOverhaulPopup.asset
+- Assets/Bundles/popups/artifactoverhaul/Images/portal.png
+Dependencies: []

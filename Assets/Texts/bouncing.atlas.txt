@@ -1,0 +1,13 @@
+
+bouncing.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mark
+  rotate: false
+  xy: 2, 2
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1

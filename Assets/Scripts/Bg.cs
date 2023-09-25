@@ -1,0 +1,15 @@
+using System;
+
+public enum Bg
+{
+	DUNGEON,
+	DESERT,
+	VILLAGE,
+	FOREST,
+	DEAD_LAND,
+	LAVA,
+	RIFT_DUNGEON,
+	RIFT_DUNGEON_1,
+	RIFT_DUNGEON_2,
+	TRAINING_GROUND
+}

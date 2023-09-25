@@ -1,0 +1,41 @@
+
+skin_buy_label.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FRrame_glow
+  rotate: false
+  xy: 2, 72
+  size: 157, 174
+  orig: 157, 174
+  offset: 0, 0
+  index: -1
+cuerda
+  rotate: true
+  xy: 2, 2
+  size: 25, 38
+  orig: 29, 40
+  offset: 1, 2
+  index: -1
+tiqueta
+  rotate: false
+  xy: 2, 29
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+tiqueta_rota1
+  rotate: false
+  xy: 161, 205
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+tiqueta_rota2
+  rotate: true
+  xy: 213, 207
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1

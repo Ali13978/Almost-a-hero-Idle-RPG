@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e4cadc7dacdf45a394c35d38775ad0bb
+timeCreated: 1599083031
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "AlmostaHero-Ult"
+  fontNames:
+  - Almost a Hero
+  - Noto Sans CJK JP
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

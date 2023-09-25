@@ -1,0 +1,212 @@
+ManifestFileVersion: 0
+CRC: 3768728841
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: popups/artifactoverhaul
+      Dependencies: {}
+    Info_1:
+      Name: backgrounds/background-5
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_2:
+      Name: heroes/ingameassets/druid
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_3:
+      Name: heroes/warlock
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_4:
+      Name: popups/rateus
+      Dependencies: {}
+    Info_5:
+      Name: heroes/ingameassets/kindlenny
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_6:
+      Name: heroes/ingameassets/babu
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_7:
+      Name: heroes/ingameassets/horatio
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_8:
+      Name: heroes/kindlenny
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_9:
+      Name: backgrounds/background-3
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_10:
+      Name: heroes/sheela
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_11:
+      Name: heroes/ingameassets/blindarcher
+      Dependencies: {}
+    Info_12:
+      Name: heroes/babu
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_13:
+      Name: backgrounds/background-1
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_14:
+      Name: heroes/sam
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_15:
+      Name: heroes/ingameassets/sam
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_16:
+      Name: heroes/ingameassets/goblin
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_17:
+      Name: heroes/blindarcher
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_18:
+      Name: heroes/tam
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_19:
+      Name: backgrounds/background-4
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_20:
+      Name: backgrounds/background-7
+      Dependencies:
+        Dependency_0: backgrounds/background-common
+    Info_21:
+      Name: heroes/ida
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_22:
+      Name: backgrounds/background-2
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_23:
+      Name: backgrounds/background-0
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_24:
+      Name: heroes/thour
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_25:
+      Name: heroes/ingameassets/wendle
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_26:
+      Name: backgrounds/background-9
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_27:
+      Name: backgrounds/background-common
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_28:
+      Name: heroes/horatio
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_29:
+      Name: heroes/goblin
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_30:
+      Name: backgrounds/background-6
+      Dependencies:
+        Dependency_0: backgrounds/background-common
+    Info_31:
+      Name: heroes/bomberman
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_32:
+      Name: heroes/wendle
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_33:
+      Name: backgrounds/background-8
+      Dependencies:
+        Dependency_0: backgrounds/background-common
+    Info_34:
+      Name: heroes/druid
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_35:
+      Name: popups/christmaseventimage
+      Dependencies: {}
+    Info_36:
+      Name: heroes/ingameassets/warlock
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_37:
+      Name: heroes/jim
+      Dependencies:
+        Dependency_0: spine-shaders
+    Info_38:
+      Name: spine-shaders
+      Dependencies: {}
+    Info_39:
+      Name: heroes/sounds/babu
+      Dependencies: {}
+    Info_40:
+      Name: heroes/sounds/kindlenny
+      Dependencies: {}
+    Info_41:
+      Name: heroes/sounds/horatio
+      Dependencies: {}
+    Info_42:
+      Name: sounds/rift-mode
+      Dependencies: {}
+    Info_43:
+      Name: heroes/sounds/druid
+      Dependencies: {}
+    Info_44:
+      Name: heroes/sounds/ida
+      Dependencies: {}
+    Info_45:
+      Name: heroes/sounds/wendle
+      Dependencies: {}
+    Info_46:
+      Name: heroes/sounds/thour
+      Dependencies: {}
+    Info_47:
+      Name: heroes/sounds/sheela
+      Dependencies: {}
+    Info_48:
+      Name: heroes/sounds/tam
+      Dependencies: {}
+    Info_49:
+      Name: heroes/sounds/bomberman
+      Dependencies: {}
+    Info_50:
+      Name: heroes/sounds/warlock
+      Dependencies: {}
+    Info_51:
+      Name: heroes/sounds/jim
+      Dependencies: {}
+    Info_52:
+      Name: heroes/sounds/sam
+      Dependencies: {}
+    Info_53:
+      Name: sounds/greenman-tutorial
+      Dependencies: {}
+    Info_54:
+      Name: heroes/sounds/lia
+      Dependencies: {}
+    Info_55:
+      Name: heroes/sounds/goblin
+      Dependencies: {}
+    Info_56:
+      Name: sounds/timechallenge-mode
+      Dependencies: {}
+    Info_57:
+      Name: heroes/sounds/common
+      Dependencies: {}

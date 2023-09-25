@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snakeProjectile
+  rotate: false
+  xy: 2, 2
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1

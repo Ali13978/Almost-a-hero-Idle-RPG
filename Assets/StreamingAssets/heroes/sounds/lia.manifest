@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 3895044924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87159c010338199f425feafbd2d39db6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_emote_12.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_levelup_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_emote_11.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_greeting_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_levelup_5.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_pas2_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Attack_Bow_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_levelup_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Whoosh_generic_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_env_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_pas2_4.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_revive_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_spawn_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_death_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Attack_Bow_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Ulti_fast_arrow_4.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_env_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_spawn_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_pas2_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_greeting_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_spawn_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_ultimate_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_death_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Ulti_init_effect.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Ulti_fast_arrow_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_emote_14.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Whoosh_generic_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_emote_15.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_levelup_4.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_pas1_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Ulti_fast_arrow_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_pas1_4.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Ulti_fast_arrow_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_revive_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Attack_Bow_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Whoosh_generic_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_levelup_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_emote_16.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_revive_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Attack_Bow_4.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_emote_13.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_pas1_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_death_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Ability_2_Jump_fall.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_ultimate_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_pas2_3.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_greeting_1.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/vo/lia/vo_happy_pas1_2.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Lia_Ability_1_PullBow_loop.wav
+- Assets/Bundles/heroes/sounds/lia/Resources/sound/hero/fx/blindarcher/Whoosh_generic_4.wav
+Dependencies: []

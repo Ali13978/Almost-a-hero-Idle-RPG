@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spider_assets/ass
+  rotate: false
+  xy: 2, 12
+  size: 113, 114
+  orig: 113, 114
+  offset: 0, 0
+  index: -1
+spider_assets/ass_toxic
+  rotate: false
+  xy: 117, 17
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+spider_assets/back_leg
+  rotate: true
+  xy: 282, 92
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+spider_assets/chest
+  rotate: true
+  xy: 368, 50
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+spider_assets/effects/smoke/smoke_0001
+  rotate: false
+  xy: 37, 2
+  size: 24, 8
+  orig: 50, 20
+  offset: 0, 3
+  index: -1
+spider_assets/effects/smoke/smoke_0002
+  rotate: false
+  xy: 2, 2
+  size: 33, 8
+  orig: 50, 20
+  offset: 0, 3
+  index: -1
+spider_assets/effects/smoke/smoke_0003
+  rotate: false
+  xy: 459, 116
+  size: 36, 10
+  orig: 50, 20
+  offset: 2, 3
+  index: -1
+spider_assets/effects/smoke/smoke_0004
+  rotate: true
+  xy: 428, 66
+  size: 37, 9
+  orig: 50, 20
+  offset: 11, 4
+  index: -1
+spider_assets/effects/smoke/smoke_0005
+  rotate: false
+  xy: 459, 105
+  size: 10, 9
+  orig: 50, 20
+  offset: 39, 4
+  index: -1
+spider_assets/effects/ultimate_impact3
+  rotate: false
+  xy: 232, 2
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+spider_assets/front_leg
+  rotate: false
+  xy: 232, 50
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+spider_assets/head
+  rotate: true
+  xy: 331, 54
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+spider_assets/head_2
+  rotate: false
+  xy: 439, 84
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+spider_assets/shadow
+  rotate: false
+  xy: 368, 105
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+spider_assets/shin
+  rotate: true
+  xy: 282, 56
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1

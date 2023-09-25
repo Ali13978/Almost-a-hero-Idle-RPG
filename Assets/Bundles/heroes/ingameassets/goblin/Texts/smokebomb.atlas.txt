@@ -1,0 +1,20 @@
+
+smokebomb.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb/Shape 2
+  rotate: false
+  xy: 2, 24
+  size: 255, 215
+  orig: 255, 215
+  offset: 0, 0
+  index: -1
+bomb/bomb
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

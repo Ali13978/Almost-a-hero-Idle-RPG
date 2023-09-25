@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1down
+  rotate: false
+  xy: 1076, 1345
+  size: 319, 173
+  orig: 319, 173
+  offset: 0, 0
+  index: -1
+1top
+  rotate: false
+  xy: 661, 1432
+  size: 323, 237
+  orig: 323, 237
+  offset: 0, 0
+  index: -1
+1top_close
+  rotate: false
+  xy: 1660, 1789
+  size: 347, 247
+  orig: 347, 252
+  offset: 0, 5
+  index: -1
+2down
+  rotate: true
+  xy: 430, 2
+  size: 396, 202
+  orig: 396, 202
+  offset: 0, 0
+  index: -1
+2top
+  rotate: true
+  xy: 634, 2
+  size: 408, 291
+  orig: 408, 291
+  offset: 0, 0
+  index: -1
+2top_close
+  rotate: false
+  xy: 1559, 1463
+  size: 445, 324
+  orig: 445, 343
+  offset: 0, 0
+  index: -1
+3down
+  rotate: true
+  xy: 443, 840
+  size: 420, 238
+  orig: 420, 238
+  offset: 0, 0
+  index: -1
+3top
+  rotate: false
+  xy: 2, 35
+  size: 426, 335
+  orig: 426, 335
+  offset: 0, 0
+  index: -1
+3up_close
+  rotate: true
+  xy: 2, 372
+  size: 466, 363
+  orig: 466, 382
+  offset: 0, 19
+  index: -1
+4down
+  rotate: true
+  xy: 367, 400
+  size: 438, 240
+  orig: 438, 240
+  offset: 0, 0
+  index: -1
+4top
+  rotate: true
+  xy: 609, 412
+  size: 426, 330
+  orig: 426, 330
+  offset: 0, 0
+  index: -1
+4up_close
+  rotate: false
+  xy: 607, 1671
+  size: 467, 365
+  orig: 467, 365
+  offset: 0, 0
+  index: -1
+5down
+  rotate: false
+  xy: 2, 1644
+  size: 603, 392
+  orig: 603, 404
+  offset: 0, 0
+  index: -1
+5top
+  rotate: false
+  xy: 2, 840
+  size: 439, 420
+  orig: 439, 420
+  offset: 0, 0
+  index: -1
+5top_close
+  rotate: false
+  xy: 1076, 1804
+  size: 582, 232
+  orig: 603, 238
+  offset: 0, 6
+  index: -1
+particules/1
+  rotate: true
+  xy: 817, 1017
+  size: 249, 115
+  orig: 249, 115
+  offset: 0, 0
+  index: -1
+particules/13
+  rotate: true
+  xy: 485, 1302
+  size: 340, 174
+  orig: 426, 330
+  offset: 35, 30
+  index: -1
+particules/4
+  rotate: true
+  xy: 683, 946
+  size: 320, 132
+  orig: 320, 132
+  offset: 0, 0
+  index: -1
+particules/7
+  rotate: false
+  xy: 661, 1268
+  size: 322, 162
+  orig: 322, 162
+  offset: 0, 0
+  index: -1
+particules/8
+  rotate: false
+  xy: 1076, 1520
+  size: 481, 282
+  orig: 481, 380
+  offset: 0, 59
+  index: -1
+particules/glow_white
+  rotate: false
+  xy: 2, 1262
+  size: 481, 380
+  orig: 481, 380
+  offset: 0, 0
+  index: -1
+particules/glow_white2
+  rotate: true
+  xy: 986, 1345
+  size: 324, 88
+  orig: 324, 95
+  offset: 0, 0
+  index: -1
+particules/particule_0002
+  rotate: false
+  xy: 2009, 2020
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

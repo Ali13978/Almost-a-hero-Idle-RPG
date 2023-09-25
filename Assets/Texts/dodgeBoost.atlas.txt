@@ -1,0 +1,13 @@
+
+dodgeBoost.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_glow01b
+  rotate: false
+  xy: 2, 2
+  size: 224, 29
+  orig: 224, 29
+  offset: 0, 0
+  index: -1

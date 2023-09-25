@@ -1,0 +1,286 @@
+
+skeleton.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/effects/2
+  rotate: false
+  xy: 412, 2
+  size: 100, 5
+  orig: 100, 5
+  offset: 0, 0
+  index: -1
+assets/effects/blur
+  rotate: false
+  xy: 364, 168
+  size: 191, 86
+  orig: 191, 86
+  offset: 0, 0
+  index: -1
+assets/effects/dust_02/dust_0001
+  rotate: false
+  xy: 876, 180
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+assets/effects/dust_02/dust_0002
+  rotate: false
+  xy: 1171, 168
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+assets/effects/dust_02/dust_0003
+  rotate: true
+  xy: 1259, 175
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+assets/effects/dust_02/dust_0004
+  rotate: true
+  xy: 1080, 166
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+assets/effects/dust_02/dust_0005
+  rotate: false
+  xy: 1351, 177
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+assets/effects/dust_02/dust_0006
+  rotate: false
+  xy: 985, 173
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+assets/effects/dust_02/dust_0007
+  rotate: false
+  xy: 548, 109
+  size: 75, 45
+  orig: 76, 47
+  offset: 0, 2
+  index: -1
+assets/effects/dust_02/dust_0008
+  rotate: false
+  xy: 412, 9
+  size: 68, 41
+  orig: 93, 89
+  offset: 3, 48
+  index: -1
+assets/effects/dust_02/dust_particle5
+  rotate: false
+  xy: 815, 140
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+assets/elf_boss_arm_l1
+  rotate: false
+  xy: 557, 156
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+assets/elf_boss_arm_r1
+  rotate: false
+  xy: 365, 52
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+assets/elf_boss_belt1
+  rotate: false
+  xy: 1802, 224
+  size: 99, 30
+  orig: 99, 30
+  offset: 0, 0
+  index: -1
+assets/elf_boss_ear1
+  rotate: true
+  xy: 483, 41
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+assets/elf_boss_eye_brow_l1
+  rotate: false
+  xy: 876, 166
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+assets/elf_boss_eyebrow_r1
+  rotate: true
+  xy: 859, 155
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+assets/elf_boss_fingers1
+  rotate: true
+  xy: 182, 5
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+assets/elf_boss_foot_l1
+  rotate: false
+  xy: 548, 95
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+assets/elf_boss_foot_r1
+  rotate: false
+  xy: 1708, 175
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1
+assets/elf_boss_forearm_l1
+  rotate: false
+  xy: 1444, 181
+  size: 91, 73
+  orig: 91, 73
+  offset: 0, 0
+  index: -1
+assets/elf_boss_forearm_r1
+  rotate: true
+  xy: 664, 174
+  size: 80, 105
+  orig: 80, 105
+  offset: 0, 0
+  index: -1
+assets/elf_boss_hair1
+  rotate: false
+  xy: 182, 33
+  size: 181, 125
+  orig: 181, 125
+  offset: 0, 0
+  index: -1
+assets/elf_boss_hand_l1
+  rotate: false
+  xy: 772, 129
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+assets/elf_boss_hand_r1
+  rotate: false
+  xy: 625, 108
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+assets/elf_boss_head1
+  rotate: true
+  xy: 771, 174
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1
+assets/elf_boss_leg_l1
+  rotate: false
+  xy: 728, 115
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+assets/elf_boss_leg_r1
+  rotate: false
+  xy: 682, 110
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+assets/elf_boss_lock_hair1
+  rotate: true
+  xy: 1903, 236
+  size: 18, 86
+  orig: 18, 86
+  offset: 0, 0
+  index: -1
+assets/elf_boss_pelvis1
+  rotate: true
+  xy: 483, 82
+  size: 84, 63
+  orig: 84, 63
+  offset: 0, 0
+  index: -1
+assets/elf_boss_shin_l1
+  rotate: false
+  xy: 365, 2
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+assets/elf_boss_shin_r1
+  rotate: false
+  xy: 1991, 200
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+assets/elf_boss_shoulder pad1
+  rotate: false
+  xy: 1624, 175
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+assets/elf_boss_shoulder_pad_back1
+  rotate: false
+  xy: 1537, 175
+  size: 85, 79
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+assets/elf_boss_thumb1
+  rotate: true
+  xy: 514, 2
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+assets/elf_boss_torso1
+  rotate: true
+  xy: 2, 17
+  size: 141, 178
+  orig: 141, 178
+  offset: 0, 0
+  index: -1
+assets/elf_boss_torso_fabric_lrg1
+  rotate: false
+  xy: 1708, 212
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+assets/elf_boss_torso_fabric_sml1
+  rotate: true
+  xy: 225, 14
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+assets/elf_boss_weapon1
+  rotate: true
+  xy: 2, 160
+  size: 94, 360
+  orig: 94, 360
+  offset: 0, 0
+  index: -1
+assets/shadow-1
+  rotate: false
+  xy: 1708, 189
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1

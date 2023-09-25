@@ -1,0 +1,20 @@
+
+skin_buy_FX_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect
+  rotate: false
+  xy: 2, 2
+  size: 113, 45
+  orig: 113, 45
+  offset: 0, 0
+  index: -1
+glow_buy_skin
+  rotate: false
+  xy: 2, 49
+  size: 162, 147
+  orig: 162, 147
+  offset: 0, 0
+  index: -1

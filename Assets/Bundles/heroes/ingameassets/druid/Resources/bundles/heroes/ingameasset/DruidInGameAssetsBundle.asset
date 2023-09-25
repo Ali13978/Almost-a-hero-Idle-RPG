@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed763aac04608db2b2bc28deb2a60121, type: 3}
+  m_Name: "DruidInGameAssetsBundle"
+  m_EditorClassIdentifier: 
+  StampedeAnimal: {fileID: 9187191931475091164, guid: 37260191267a450b9cc2c1cf20f30ed6, type: 2}
+  StampedeAnimalAnimData: {fileID: 11400000, guid: 60b3dbed362244bd96ff2ce86dd9e2c6, type: 2}
+  Larry: {fileID: -7601944034192331527, guid: 773902869b4143f0bb14384302286adc, type: 2}
+  LarryAnimData: {fileID: 11400000, guid: b23688aa93034596b2125ec6cf03caee, type: 2}
+  Curly: {fileID: -1987384084149709008, guid: 40f14d8a82d64097a7f42dc19e95c6b7, type: 2}
+  CurlyAnimData: {fileID: 11400000, guid: 9b96fb65e621411ab91ff5d62696a80b, type: 2}
+  Moe: {fileID: 9162598401340825392, guid: 5c3e6936c4714e8aa1bfcc35417e9f21, type: 2}
+  MoeAnimData: {fileID: 11400000, guid: 6937494c47834bd695f7e7322c8f31ea, type: 2}

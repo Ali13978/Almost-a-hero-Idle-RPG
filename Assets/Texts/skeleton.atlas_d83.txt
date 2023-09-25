@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/ultimate_0001
+  rotate: false
+  xy: 199, 60
+  size: 72, 61
+  orig: 80, 70
+  offset: 4, 5
+  index: -1
+assets/ultimate_0002
+  rotate: false
+  xy: 123, 59
+  size: 74, 62
+  orig: 80, 76
+  offset: 6, 7
+  index: -1
+assets/ultimate_0003
+  rotate: false
+  xy: 273, 63
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+assets/ultimate_0005
+  rotate: false
+  xy: 349, 97
+  size: 53, 24
+  orig: 54, 26
+  offset: 1, 0
+  index: -1
+assets/ultimate_0007
+  rotate: false
+  xy: 123, 12
+  size: 45, 19
+  orig: 47, 19
+  offset: 2, 0
+  index: -1
+assets/ultimate_0008
+  rotate: true
+  xy: 179, 34
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+assets/ultimate_shape
+  rotate: false
+  xy: 123, 33
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+assets/white_dot
+  rotate: false
+  xy: 2, 2
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1

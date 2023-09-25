@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/levelUp
+  rotate: false
+  xy: 2, 2
+  size: 100, 24
+  orig: 100, 24
+  offset: 0, 0
+  index: -1

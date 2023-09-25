@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 4134650170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2558bba5588d625b8bb955ce5fd3c683
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/Sam_Ability_2_attack.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_revive_3.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_levelup_3.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_emote_16.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_spawn_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/Sam_Attack_GlassImpact_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_spawn_3.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_pas1_3.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_pas2_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_death_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_ultimate_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_pas2_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_revive_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/Sam_Attack_GlassImpact_3.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_env_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/Sam_Ability_2_back.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_emote_8.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_death_3.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_emote_13.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_pas1_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/attack1_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_emote_15.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/Sam_Ulti.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_death_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_pas2_3.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_ultimate_4.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_pas2_4.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_emote_14.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_env_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_greeting_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_pas1_4.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_levelup_4.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_revive_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_spawn_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_pas1_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_levelup_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/Sam_Attack_GlassImpact_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_greeting_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_ultimate_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/Sam_Ability_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_levelup_5.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_ultimate_3.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/death.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_greeting_3.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_levelup_1.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/attack1_2.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/vo/sam/vo_sam_emote_3.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/Sam_Ulti_end.wav
+- Assets/Bundles/heroes/sounds/sam/Resources/sound/hero/fx/sam/attack1_3.wav
+Dependencies: []

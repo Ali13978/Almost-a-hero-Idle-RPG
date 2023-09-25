@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3276851353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82143ad60c9de1034af5e3448f98c62f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c10570324ff761e885f83123fbf63e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/heroes/ida/MonoBehaviour/skeleton_Atlas.asset
+- Assets/Bundles/heroes/ida/Sounds/vo_vexx_item_2.wav
+- Assets/Bundles/heroes/ida/Sounds/vo_vexx_item_4.wav
+- Assets/Bundles/heroes/ida/Sounds/vo_vexx_item_1.wav
+- Assets/Bundles/heroes/ida/Sounds/vo_vexx_greeting_2.wav
+- Assets/Bundles/heroes/ida/Images/skeleton.png
+- Assets/Bundles/heroes/ida/CAB-315ebd4309d6b1fcd63903fe2b62f28a/Ida.prefab
+- Assets/Bundles/heroes/ida/Sounds/vo_vexx_item_3.wav
+- Assets/Bundles/heroes/ida/Texts/skeleton.atlas.txt
+- Assets/Bundles/heroes/ida/Sounds/vo_vexx_emote_3.wav
+- Assets/Bundles/heroes/ida/Texts/skeleton.skel.bytes
+- Assets/Bundles/heroes/ida/Materials/skeleton_Material.mat
+- Assets/Bundles/heroes/ida/Resources/bundles/heroes/HeroBundle-Ida.asset
+- Assets/Bundles/heroes/ida/Sounds/vo_vexx_greeting_3.wav
+- Assets/Bundles/heroes/ida/Sounds/vo_vexx_greeting_1.wav
+- Assets/Bundles/heroes/ida/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Bundles/heroes/ida/Sounds/vo_vexx_item_5.wav
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

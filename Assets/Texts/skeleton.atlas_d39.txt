@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 92
+  rotate: true
+  xy: 2, 15
+  size: 46, 590
+  orig: 46, 590
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 594, 44
+  size: 76, 17
+  orig: 77, 17
+  offset: 0, 0
+  index: -1
+flare_fire
+  rotate: false
+  xy: 2, 2
+  size: 10, 11
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+flare_particle
+  rotate: false
+  xy: 594, 39
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

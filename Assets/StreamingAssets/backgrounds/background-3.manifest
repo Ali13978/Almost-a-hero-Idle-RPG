@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2615822443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc007e011314269dbddbdae9ec7fc8ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c251491c9f8174bfe26f8b73bc74482
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 688fa1156c971f5e084ec1434016e0db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4853b7c14531573e3d16c75bc7b7714, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/backgrounds/background-3/Images/skeleton.png
+- Assets/Bundles/backgrounds/background-3/Materials/skeleton_Material.mat
+- Assets/Bundles/backgrounds/background-3/Texts/skeleton.skel.bytes
+- Assets/Bundles/backgrounds/background-3/Images/bg_02.png
+- Assets/Bundles/backgrounds/background-3/Resources/bundles/backgrounds/BackgroundBundle-3.asset
+- Assets/Bundles/backgrounds/background-3/MonoBehaviour/skeleton_Atlas.asset
+- Assets/Bundles/backgrounds/background-3/CAB-26d7a11c7db6b494293566f68b64a444/backgroundAnimationsForest2.prefab
+- Assets/Bundles/backgrounds/background-3/Texts/skeleton.atlas.txt
+- Assets/Bundles/backgrounds/background-3/MonoBehaviour/skeleton_SkeletonData.asset
+Dependencies:
+- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders

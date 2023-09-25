@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+  m_Name: "HeroBundle-Warlock"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6831600759846747406, guid: 31fdb1d1c55a4a8cb7a24a53f8d1e2bc, type: 2}
+  animation: {fileID: 11400000, guid: ccc1fbeefa934dc5bf62422d7042697a, type: 2}
+  SelectedAudioClips:
+  - {fileID: 8300000, guid: d4fc7e3e69834c488683694df5f88748, type: 3}
+  - {fileID: 8300000, guid: 0a8ecbdb1a66433fa9c2b8ef2f824736, type: 3}
+  - {fileID: 8300000, guid: b5891b22ec4b4040a5104056de46b6f8, type: 3}
+  - {fileID: 8300000, guid: ef1e93e0fa874731814e99196ee83042, type: 3}
+  - {fileID: 8300000, guid: 762196c8d4e8439b8648e5c7e6aecfd7, type: 3}
+  UpgradeItemAudioClips:
+  - {fileID: 8300000, guid: bb86e17440534f99a37793d835c840f1, type: 3}
+  - {fileID: 8300000, guid: a2b328970abf477183658c21ddeb102a, type: 3}
+  - {fileID: 8300000, guid: 93f8f995a09b4e55998f34ef5c9cdebe, type: 3}
+  - {fileID: 8300000, guid: bc3ca36a015b49b9a89b739a1033e4e9, type: 3}
+  - {fileID: 8300000, guid: cd36a3a863204182854a5039bed7b796, type: 3}

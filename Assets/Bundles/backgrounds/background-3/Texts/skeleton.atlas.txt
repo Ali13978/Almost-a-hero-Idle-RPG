@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 64,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+standard/bg_02/eyes
+  rotate: false
+  xy: 2, 8
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+standard/bg_02/particle
+  rotate: false
+  xy: 2, 2
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
