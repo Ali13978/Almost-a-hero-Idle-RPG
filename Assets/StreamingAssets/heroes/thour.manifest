@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 904319571
+CRC: 604998362
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1a6c57039d2650cc5f666734ff6fd49d
+    Hash: 6c7a47a11281e85aab38b82624ab0b8b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6c10570324ff761e885f83123fbf63e8
+    Hash: fbbb99d154c935eed8cbca671009e326
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,31 +28,34 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials
 Assets:
-- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_item_1.wav
-- Assets/Bundles/heroes/thour/MonoBehaviour/skeleton_Atlas.asset
-- Assets/Bundles/heroes/thour/Materials/skeleton_Material.mat
-- Assets/Bundles/heroes/thour/Texts/skeleton.skel.bytes
-- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_emote_2.wav
-- Assets/Bundles/heroes/thour/Resources/bundles/heroes/HeroBundle-Thour.asset
-- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_item_2.wav
-- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_item_4.wav
-- Assets/Bundles/heroes/thour/Images/skeleton.png
-- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_emote_3.wav
 - Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_item_5.wav
-- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_emote_5.wav
-- Assets/Bundles/heroes/thour/Texts/skeleton.atlas.txt
-- Assets/Bundles/heroes/thour/MonoBehaviour/skeleton_SkeletonData.asset
 - Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_item_3.wav
 - Assets/Bundles/heroes/thour/CAB-124db51d764dae242d24f217d005a19c/Thour.prefab
+- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_item_2.wav
+- Assets/Bundles/heroes/thour/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_emote_3.wav
+- Assets/Bundles/heroes/thour/MonoBehaviour/skeleton_Atlas.asset
+- Assets/Bundles/heroes/thour/Materials/skeleton_Material.mat
+- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_item_1.wav
+- Assets/Bundles/heroes/thour/Texts/skeleton.skel.bytes
+- Assets/Bundles/heroes/thour/Resources/bundles/heroes/HeroBundle-Thour.asset
+- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_item_4.wav
+- Assets/Bundles/heroes/thour/Texts/skeleton.atlas.txt
+- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_emote_5.wav
+- Assets/Bundles/heroes/thour/Sounds/vo_bellylarf_emote_2.wav
+- Assets/Bundles/heroes/thour/Images/skeleton.png
 Dependencies:
-- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders
+- D:/Ali/Almost-a-hero-Idle-RPG/Assets/AaHBundles/spine-shaders

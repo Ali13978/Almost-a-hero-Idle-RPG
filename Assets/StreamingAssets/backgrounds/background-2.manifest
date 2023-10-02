@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1020343757
+CRC: 857022977
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ac1da5e9813f0c5dfb41e322b3114f3
+    Hash: 5cbdff7d15068854f277ae924265703a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6c251491c9f8174bfe26f8b73bc74482
+    Hash: 11f4db80a7b0decccc14a25d7ac10d49
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,28 +26,33 @@ ClassTypes:
 - Class: 49
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 688fa1156c971f5e084ec1434016e0db, type: 3}
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d4853b7c14531573e3d16c75bc7b7714, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+  Script: {fileID: 11500000, guid: 688fa1156c971f5e084ec1434016e0db, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BackgroundAnimationData
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials
 Assets:
-- Assets/Bundles/backgrounds/background-2/Images/bg_01.png
-- Assets/Bundles/backgrounds/background-2/Texts/bg_01.atlas.txt
 - Assets/Bundles/backgrounds/background-2/Texts/bg_01.skel.bytes
-- Assets/Bundles/backgrounds/background-2/Materials/bg_01_Material.mat
 - Assets/Bundles/backgrounds/background-2/MonoBehaviour/bg_01_SkeletonData.asset
 - Assets/Bundles/backgrounds/background-2/Resources/bundles/backgrounds/BackgroundBundle-2.asset
+- Assets/Bundles/backgrounds/background-2/Texts/bg_01.atlas.txt
+- Assets/Bundles/backgrounds/background-2/Materials/bg_01_Material.mat
+- Assets/Bundles/backgrounds/background-2/CAB-23d7135ae000cc20d1691d244d03251d/backgroundAnimationsForest1.prefab
 - Assets/Bundles/backgrounds/background-2/Images/bg_01_d1.png
 - Assets/Bundles/backgrounds/background-2/MonoBehaviour/bg_01_Atlas.asset
-- Assets/Bundles/backgrounds/background-2/CAB-23d7135ae000cc20d1691d244d03251d/backgroundAnimationsForest1.prefab
+- Assets/Bundles/backgrounds/background-2/Images/bg_01.png
 Dependencies:
-- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders
+- D:/Ali/Almost-a-hero-Idle-RPG/Assets/AaHBundles/spine-shaders

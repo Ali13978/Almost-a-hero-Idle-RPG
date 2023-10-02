@@ -1,24 +1,25 @@
 ManifestFileVersion: 0
-CRC: 3166005638
+CRC: 90234750
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4980a8bdfceb48657931f03217324e9a
+    Hash: c5a579a082b099e98d6ad5b79230eccb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/greenman/GREENMAN_GATEOK_1.wav
-- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/wisesnake/WISESNAKE_GATEKO_1.wav
-- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/wisesnake/WISESNAKE_GATEOK_2.wav
-- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/greenman/GREENMAN_GATEKO_2.wav
-- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/wisesnake/WISESNAKE_GOG_UNLOCK.wav
-- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/greenman/GREENMAN_GATEKO_1.wav
 - Assets/Bundles/sounds/rift-mode/Resources/sound/vo/wisesnake/WISESNAKE_GATEOK_1.wav
+- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/greenman/GREENMAN_GATEKO_2.wav
+- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/greenman/GREENMAN_GATEKO_1.wav
+- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/wisesnake/WISESNAKE_GATEOK_2.wav
+- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/greenman/GREENMAN_GATEOK_1.wav
+- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/wisesnake/WISESNAKE_GOG_UNLOCK.wav
 - Assets/Bundles/sounds/rift-mode/Resources/sound/vo/wisesnake/WISESNAKE_GATEKO_2.wav
+- Assets/Bundles/sounds/rift-mode/Resources/sound/vo/wisesnake/WISESNAKE_GATEKO_1.wav
 - Assets/Bundles/sounds/rift-mode/Resources/sound/vo/greenman/GREENMAN_GATEOK_2.wav
 Dependencies: []

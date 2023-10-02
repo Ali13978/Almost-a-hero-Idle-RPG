@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1625434156
+CRC: 1730604870
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: af2ca60def8a66ffbaf30b7e45ffc408
+    Hash: 6124150096f6636aba2d597c8bb21329
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6c10570324ff761e885f83123fbf63e8
+    Hash: fbbb99d154c935eed8cbca671009e326
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,31 +28,34 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials
 Assets:
-- Assets/Bundles/heroes/goblin/MonoBehaviour/goblin_Atlas.asset
-- Assets/Bundles/heroes/goblin/Texts/goblin.skel.bytes
-- Assets/Bundles/heroes/goblin/Sounds/Emotes3.wav
-- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade3.wav
-- Assets/Bundles/heroes/goblin/Resources/bundles/heroes/HeroBundle-Goblin.asset
-- Assets/Bundles/heroes/goblin/Images/goblin.png
-- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade1.wav
-- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade4.wav
-- Assets/Bundles/heroes/goblin/Sounds/Emotes10.wav
 - Assets/Bundles/heroes/goblin/Materials/goblin_Material.mat
-- Assets/Bundles/heroes/goblin/Texts/goblin.atlas.txt
-- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade2.wav
 - Assets/Bundles/heroes/goblin/CAB-42f95356c854c55ea1323c12a62ccfc0/Goblin.prefab
+- Assets/Bundles/heroes/goblin/Texts/goblin.skel.bytes
+- Assets/Bundles/heroes/goblin/Sounds/Emotes10.wav
+- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade2.wav
+- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade4.wav
+- Assets/Bundles/heroes/goblin/Texts/goblin.atlas.txt
+- Assets/Bundles/heroes/goblin/Sounds/Emotes3.wav
+- Assets/Bundles/heroes/goblin/Resources/bundles/heroes/HeroBundle-Goblin.asset
 - Assets/Bundles/heroes/goblin/Sounds/Emotes2.wav
 - Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade5.wav
+- Assets/Bundles/heroes/goblin/MonoBehaviour/goblin_Atlas.asset
+- Assets/Bundles/heroes/goblin/Images/goblin.png
 - Assets/Bundles/heroes/goblin/MonoBehaviour/goblin_SkeletonData.asset
+- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade3.wav
+- Assets/Bundles/heroes/goblin/Sounds/ItemUpgrade1.wav
 Dependencies:
-- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders
+- D:/Ali/Almost-a-hero-Idle-RPG/Assets/AaHBundles/spine-shaders

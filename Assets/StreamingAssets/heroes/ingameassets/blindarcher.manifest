@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 162655539
+CRC: 339991362
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c085c937e685a71428d38002f8dbac65
+    Hash: 01dc8cee7cf2e01fd18155e897e14f6a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c269196886147b0de423981a4abba5af
+    Hash: dffe34580df707106e9fbe7f9964127b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,9 +27,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/prefabs/projectilesstill/ProjectileBlindArcher.prefab
-- Assets/Bundles/heroes/ingameassets/blindarcher/Resources/bundles/heroes/ingameasset/BlindArcherInGameAssetsBundle.asset
 - Assets/Bundles/heroes/ingameassets/blindarcher/Images/blindArcherArrow.png
 - Assets/Bundles/heroes/ingameassets/blindarcher/Materials/Sprites-Default.mat
+- Assets/Resources/prefabs/projectilesstill/ProjectileBlindArcher.prefab
+- Assets/Bundles/heroes/ingameassets/blindarcher/Resources/bundles/heroes/ingameasset/BlindArcherInGameAssetsBundle.asset
 Dependencies: []

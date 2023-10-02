@@ -1,27 +1,28 @@
 ManifestFileVersion: 0
-CRC: 3078585452
+CRC: 2969165934
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7e392c1d599a38a5406a5255cbe5405b
+    Hash: c41cda6e20644047b871df551df9c210
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 677a1d6a6e8c5d2da1d9d0fadde392d8
+    Hash: 0df1dec30b5d061d422d3e6493d27647
 HashAppended: 0
 ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Bundles/spine-shaders/Resources/spine/runtime/spine-unity/shaders/Spine_Skeleton
+  Tint Black.shader
+- Assets/Bundles/spine-shaders/Resources/spine/runtime/spine-unity/shaders/blendmodes/Spine_Blend
+  Modes_Skeleton PMA Additive.shader
 - Assets/Bundles/spine-shaders/Resources/spine/runtime/spine-unity/shaders/blendmodes/Spine_Blend
   Modes_Skeleton PMA Multiply.shader
 - Assets/Bundles/spine-shaders/Resources/spine/runtime/spine-unity/shaders/utility/Spine_Special_HiddenPass.shader
-- Assets/Bundles/spine-shaders/Resources/spine/runtime/spine-unity/shaders/Spine_Skeleton.shader
-- Assets/Bundles/spine-shaders/Resources/spine/runtime/spine-unity/shaders/blendmodes/Spine_Blend
-  Modes_Skeleton PMA Additive.shader
-- Assets/Bundles/spine-shaders/Resources/spine/runtime/spine-unity/shaders/Spine_Skeleton
-  Tint Black.shader
 - Assets/Bundles/spine-shaders/Resources/spine/runtime/spine-unity/shaders/Spine_Skeleton
   Lit.shader
 - Assets/Bundles/spine-shaders/Resources/spine/runtime/spine-unity/shaders/blendmodes/Spine_Blend
   Modes_Skeleton PMA Screen.shader
+- Assets/Bundles/spine-shaders/Resources/spine/runtime/spine-unity/shaders/Spine_Skeleton.shader
 Dependencies: []

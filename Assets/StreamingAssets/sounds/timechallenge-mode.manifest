@@ -1,24 +1,25 @@
 ManifestFileVersion: 0
-CRC: 987972341
+CRC: 2880012148
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c00ec532d65be136cba06c33789f5df6
+    Hash: bc5061e9b8ecfbb285c9c3cc7b264550
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_fail_1.wav
-- Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_complete_3.wav
 - Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_complete_4.wav
-- Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_fail_3.wav
-- Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_fail_2.wav
+- Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_fail_1.wav
 - Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_unlock_tc.wav
-- Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_complete_1.wav
 - Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_complete_2.wav
+- Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_complete_1.wav
+- Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_fail_3.wav
+- Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_complete_3.wav
+- Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_fail_2.wav
 - Assets/Bundles/sounds/timechallenge-mode/Resources/sound/vo/greenman/vo_greenman_tc_fail_4.wav
 Dependencies: []

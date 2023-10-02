@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2762269160
+CRC: 3317664401
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1a6b1972c78be317b1db996b2b4783a6
+    Hash: ae286cdd43713e8959a2a806cf54d24e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e04a8bb33bea4a02d37d01a4a6d8a1cc
+    Hash: f32f3c1065232280047af31837b5b9e4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -22,20 +22,25 @@ ClassTypes:
 - Class: 33
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 688fa1156c971f5e084ec1434016e0db, type: 3}
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d4853b7c14531573e3d16c75bc7b7714, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+  Script: {fileID: 11500000, guid: 688fa1156c971f5e084ec1434016e0db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BackgroundAnimationData
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials
 Assets:
-- Assets/Bundles/backgrounds/background-7/Images/bg_gog_02.png
-- Assets/Bundles/backgrounds/background-7/Resources/bundles/backgrounds/BackgroundBundle-7.asset
 - Assets/Bundles/backgrounds/background-7/CAB-786006abf2cd8ab57220fe58ca3c0551/backgroundAnimationsRiftDungeon2.prefab
+- Assets/Bundles/backgrounds/background-7/Resources/bundles/backgrounds/BackgroundBundle-7.asset
+- Assets/Bundles/backgrounds/background-7/Images/bg_gog_02.png
 Dependencies:
-- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/backgrounds/background-common
+- D:/Ali/Almost-a-hero-Idle-RPG/Assets/AaHBundles/backgrounds/background-common

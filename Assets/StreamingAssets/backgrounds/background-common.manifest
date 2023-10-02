@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2068028080
+CRC: 1463286005
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 26d2ae573c7466074e8e8989ed8053b8
+    Hash: eceee3073116d7c17f959e90921a7358
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b1a6f773aab16b088fdfcbccd404759f
+    Hash: 11d871f9f616d8da1b919a15ec9e790e
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -23,12 +23,13 @@ ClassTypes:
   Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton_SkeletonData.asset
-- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton_Material.mat
 - Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton.png
+- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton_Material.mat
 - Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton_Atlas.asset
-- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton.skel.bytes
 - Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton.atlas.txt
+- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton.skel.bytes
+- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton_SkeletonData.asset
 Dependencies:
-- F:/ProjectUnityNew/AlmostAHeroIdleUpgrade/Assets/AaHBundles/spine-shaders
+- D:/Ali/Almost-a-hero-Idle-RPG/Assets/AaHBundles/spine-shaders
