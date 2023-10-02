@@ -54,6 +54,7 @@ namespace DynamicLoading
 			if (this.IsMainBundleNotLoaded && !this.IsLoading)
 			{
 				this.bundleRequest = AssetBundle.LoadFromFileAsync(Path.Combine(Application.streamingAssetsPath, this.BundleName));
+				Debug.Log("Loaded bundle sucessfully");
 			}
 		}
 

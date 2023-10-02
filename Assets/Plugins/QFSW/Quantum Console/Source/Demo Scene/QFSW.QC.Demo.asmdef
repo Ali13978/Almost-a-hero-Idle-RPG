@@ -1,0 +1,10 @@
+{
+    "name": "QFSW.QC.Demo",
+    "references": [
+        "QFSW.QC"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

@@ -160,6 +160,8 @@ public class PreLoader : MonoBehaviour, IAndroidPopupCalbackReceiver
 		//		});
 		//	}
 		//}
+
+		Debug.Log(Application.streamingAssetsPath);
 	}
 
 	private void SetHintText()
