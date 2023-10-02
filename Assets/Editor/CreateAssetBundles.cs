@@ -7,7 +7,7 @@ public class CreateAssetBundles
     [MenuItem("Assets/Build AssetBundles")]
     static void BuildAllAssetBundles()
     {
-        string assetBundleDirectory = "Assets/AaHBundles/";
+        string assetBundleDirectory = "Assets/Bundles/";
         if (!Directory.Exists(Application.streamingAssetsPath))
         {
             Directory.CreateDirectory(assetBundleDirectory);

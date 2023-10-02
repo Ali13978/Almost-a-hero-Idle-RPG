@@ -365,7 +365,6 @@ public class PreLoader : MonoBehaviour, IAndroidPopupCalbackReceiver
 
 	public Text loadingHintText;
 
-
 	public ParsedLoc parsedLoc;
 
 	public float fakeLoadingDur;
