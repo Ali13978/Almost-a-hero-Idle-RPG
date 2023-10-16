@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 using Simulation;
-using Tapdaq;
+//using Tapdaq;
 using UnityEngine;
 
 public class RewardedAdManager : MonoBehaviour
@@ -92,22 +92,22 @@ public class RewardedAdManager : MonoBehaviour
 
 	public void OnRewardVideoValidated()
 	{
-		if (!this.wasTheVideoCapped)
-		{
-			this.shouldGiveReward = true;
-			this.shouldGiveRewardCapped = false;
-			AdjustTracker.TrackAdWatchedEventData(false, this.ad_completed);
+		//if (!this.wasTheVideoCapped)
+		//{
+		//	this.shouldGiveReward = true;
+		//	this.shouldGiveRewardCapped = false;
+		//	AdjustTracker.TrackAdWatchedEventData(false, this.ad_completed);
 			
-		}
-		else
-		{
-			this.shouldGiveRewardCapped = true;
-			this.shouldGiveReward = false;
-			AdjustTracker.TrackAdWatchedEventData(true, this.ad_completed);
-		}
-		this.Log("AD VALIDATED");
-		this.isAdLoaded = false;
-		Screen.orientation = ScreenOrientation.Portrait;
+		//}
+		//else
+		//{
+		//	this.shouldGiveRewardCapped = true;
+		//	this.shouldGiveReward = false;
+		//	AdjustTracker.TrackAdWatchedEventData(true, this.ad_completed);
+		//}
+		//this.Log("AD VALIDATED");
+		//this.isAdLoaded = false;
+		//Screen.orientation = ScreenOrientation.Portrait;
 	}
 
 	public void OnRewardVideoNotValidated()
@@ -117,69 +117,71 @@ public class RewardedAdManager : MonoBehaviour
 
 	public bool IsRewardedCappedVideoAvailable(DateTime lastCappedWatchedTime, CurrencyType currencyType, int videosWatched = 0)
 	{
-		return this.IsRewardedVideoAvailable() && this.GetNumCappedVideo(lastCappedWatchedTime, currencyType, videosWatched) > 0;
+		//return this.IsRewardedVideoAvailable() && this.GetNumCappedVideo(lastCappedWatchedTime, currencyType, videosWatched) > 0;
+		return false;
 	}
 
 	public int GetNumCappedVideo(DateTime lastCappedWatchedTime, CurrencyType currencyType, int videosWatched = 0)
 	{
-		if (!TrustedTime.IsReady())
-		{
-			return 0;
-		}
-		if (currencyType == CurrencyType.CANDY)
-		{
-			return 3 - videosWatched;
-		}
-		double num = GameMath.DeltaTimeInSecs(TrustedTime.Get(), lastCappedWatchedTime);
-		return (int)Math.Min((double)RewardedAdManager.GetCappedCurrencyVideoMaxStack(currencyType), Math.Floor(num / (double)RewardedAdManager.GetCappedCurrencyVideoPeriod(currencyType)));
+		//if (!TrustedTime.IsReady())
+		//{
+		//	return 0;
+		//}
+		//if (currencyType == CurrencyType.CANDY)
+		//{
+		//	return 3 - videosWatched;
+		//}
+		//double num = GameMath.DeltaTimeInSecs(TrustedTime.Get(), lastCappedWatchedTime);
+		//return (int)Math.Min((double)RewardedAdManager.GetCappedCurrencyVideoMaxStack(currencyType), Math.Floor(num / (double)RewardedAdManager.GetCappedCurrencyVideoPeriod(currencyType)));
+		return 0;
 	}
 
 	public void PrepareToShowRewardedVideo(FlashOffer targetFlashOffer)
 	{
-		Resources.UnloadUnusedAssets();
-		GC.Collect();
-		if (targetFlashOffer == null)
-		{
-			this.targetFlashOfferType = null;
-		}
-		else
-		{
-			this.targetFlashOfferType = new FlashOffer.Type?(targetFlashOffer.type);
-		}
-		this.isWatchingAd = true;
-		this.wasTheVideoCapped = false;
-		this.hasBeenWatchingAdWithoutIntermission = true;
-		RewardedAdManager.prepTime = 1f;
+		//Resources.UnloadUnusedAssets();
+		//GC.Collect();
+		//if (targetFlashOffer == null)
+		//{
+		//	this.targetFlashOfferType = null;
+		//}
+		//else
+		//{
+		//	this.targetFlashOfferType = new FlashOffer.Type?(targetFlashOffer.type);
+		//}
+		//this.isWatchingAd = true;
+		//this.wasTheVideoCapped = false;
+		//this.hasBeenWatchingAdWithoutIntermission = true;
+		//RewardedAdManager.prepTime = 1f;
 	}
 
 	public void PrepareToShowRewardedVideoCapped(Simulator sim, CurrencyType currencyType, double rewardAmount)
 	{
-		if (TrustedTime.IsReady())
-		{
-			RewardedAdManager.prepTime = 1f;
-			Resources.UnloadUnusedAssets();
-			GC.Collect();
-			this.wasTheVideoCapped = true;
-			this.isWatchingAdCapped = true;
-			this.hasBeenWatchingAdWithoutIntermission = true;
-			this.currencyTypeForCappedVideo = currencyType;
-			this.rewardAmountForCappedVideo = rewardAmount;
-			if (currencyType != CurrencyType.CANDY)
-			{
-				int numCappedVideo = this.GetNumCappedVideo(sim.GetLastCappedCurrencyWatchedTime(currencyType), currencyType, 0);
-				if (numCappedVideo == RewardedAdManager.GetCappedCurrencyVideoMaxStack(currencyType))
-				{
-					if (TrustedTime.IsReady())
-					{
-						sim.SetLastCappedCurrencyWatchedTime(currencyType, TrustedTime.Get().AddSeconds((double)(-(double)(RewardedAdManager.GetCappedCurrencyVideoMaxStack(currencyType) - 1) * RewardedAdManager.GetCappedCurrencyVideoPeriod(currencyType))));
-					}
-				}
-				else
-				{
-					sim.SetLastCappedCurrencyWatchedTime(currencyType, sim.GetLastCappedCurrencyWatchedTime(currencyType).AddSeconds((double)RewardedAdManager.GetCappedCurrencyVideoPeriod(currencyType)));
-				}
-			}
-		}
+		//if (TrustedTime.IsReady())
+		//{
+		//	RewardedAdManager.prepTime = 1f;
+		//	Resources.UnloadUnusedAssets();
+		//	GC.Collect();
+		//	this.wasTheVideoCapped = true;
+		//	this.isWatchingAdCapped = true;
+		//	this.hasBeenWatchingAdWithoutIntermission = true;
+		//	this.currencyTypeForCappedVideo = currencyType;
+		//	this.rewardAmountForCappedVideo = rewardAmount;
+		//	if (currencyType != CurrencyType.CANDY)
+		//	{
+		//		int numCappedVideo = this.GetNumCappedVideo(sim.GetLastCappedCurrencyWatchedTime(currencyType), currencyType, 0);
+		//		if (numCappedVideo == RewardedAdManager.GetCappedCurrencyVideoMaxStack(currencyType))
+		//		{
+		//			if (TrustedTime.IsReady())
+		//			{
+		//				sim.SetLastCappedCurrencyWatchedTime(currencyType, TrustedTime.Get().AddSeconds((double)(-(double)(RewardedAdManager.GetCappedCurrencyVideoMaxStack(currencyType) - 1) * RewardedAdManager.GetCappedCurrencyVideoPeriod(currencyType))));
+		//			}
+		//		}
+		//		else
+		//		{
+		//			sim.SetLastCappedCurrencyWatchedTime(currencyType, sim.GetLastCappedCurrencyWatchedTime(currencyType).AddSeconds((double)RewardedAdManager.GetCappedCurrencyVideoPeriod(currencyType)));
+		//		}
+		//	}
+		//}
 	}
 
 	public static int GetCappedCurrencyVideoMaxStack(CurrencyType currencyType)
@@ -215,69 +217,71 @@ public class RewardedAdManager : MonoBehaviour
 
 	private void Update()
 	{
-		this.adBridge.Update();
-		if (!this.IsWatchingAnyAd())
-		{
-			float num = Time.time - this.lastAddLoadTime;
-			if (!this.isAdLoaded && num > 15f)
-			{
-				if (this.IsRewardedVideoReady())
-				{
-					this.lastAddLoadTime = Time.time;
-					this.isAdLoaded = true;
-				}
-				else
-				{
-					this.lastAddLoadTime = Time.time;
-					this.LoadRewardedVideo();
-				}
-			}
-		}
+		//this.adBridge.Update();
+		//if (!this.IsWatchingAnyAd())
+		//{
+		//	float num = Time.time - this.lastAddLoadTime;
+		//	if (!this.isAdLoaded && num > 15f)
+		//	{
+		//		if (this.IsRewardedVideoReady())
+		//		{
+		//			this.lastAddLoadTime = Time.time;
+		//			this.isAdLoaded = true;
+		//		}
+		//		else
+		//		{
+		//			this.lastAddLoadTime = Time.time;
+		//			this.LoadRewardedVideo();
+		//		}
+		//	}
+		//}
 	}
 
 	public bool IsRewardedVideoAvailable()
 	{
-		return this.IsRewardedVideoReady();
+		//return this.IsRewardedVideoReady();
+		return false;
 	}
 
 	public static void Advance()
 	{
-		if (RewardedAdManager.prepTime > 0f)
-		{
-			RewardedAdManager.prepTime -= Time.deltaTime;
-			if (RewardedAdManager.prepTime <= 0f)
-			{
-				RewardedAdManager.inst.adBridge.ShowAd();
-			}
-		}
+		//if (RewardedAdManager.prepTime > 0f)
+		//{
+		//	RewardedAdManager.prepTime -= Time.deltaTime;
+		//	if (RewardedAdManager.prepTime <= 0f)
+		//	{
+		//		RewardedAdManager.inst.adBridge.ShowAd();
+		//	}
+		//}
 	}
 
 	public void OnShopOpened()
 	{
-		if (!this.adBridge.IsInitialized())
-		{
-			this.adBridge.Init();
-		}
+		//if (!this.adBridge.IsInitialized())
+		//{
+		//	this.adBridge.Init();
+		//}
 	}
 
 	private bool IsRewardedVideoReady()
 	{
-		return this.adBridge.IsAdReady();
+		//return this.adBridge.IsAdReady();
+		return false;
 	}
 
 	private void LoadRewardedVideo()
 	{
-		if (this.adBridge.IsInitialized())
-		{
-			this.Log("AD LOADING");
-			this.adBridge.LoadAd();
-		}
-		else
-		{
-			this.initialized = false;
-			this.Log("AD MANAGER NOT INITIALIZED : Retrying init");
-			this.adBridge.Init();
-		}
+		//if (this.adBridge.IsInitialized())
+		//{
+		//	this.Log("AD LOADING");
+		//	this.adBridge.LoadAd();
+		//}
+		//else
+		//{
+		//	this.initialized = false;
+		//	this.Log("AD MANAGER NOT INITIALIZED : Retrying init");
+		//	this.adBridge.Init();
+		//}
 	}
 
 	private void Log(object o)
@@ -287,7 +291,7 @@ public class RewardedAdManager : MonoBehaviour
 
 	public static void LaunchMediationDebugger()
 	{
-		AdManager.LaunchMediationDebugger();
+		//AdManager.LaunchMediationDebugger();
 	}
 
 	private const string CAPPED_ID = "free-credits";

@@ -156,31 +156,31 @@ public static class PlayfabManager
 		return CurrencyType.GOLD;
 	}
 
-	//private static void GetGoogleServerAuthCode(Action<string> callback)
-	//{
-	//	try
-	//	{
-	//		if (PlayfabManager.didEverGetAutCode)
-	//		{
-	//			PlayGamesPlatform.Instance.GetAnotherServerAuthCode(false, delegate(string code)
-	//			{
-	//				UnityEngine.Debug.Log("Auth code: " + code);
-	//				callback(code);
-	//			});
-	//		}
-	//		else
-	//		{
-	//			string serverAuthCode = PlayGamesPlatform.Instance.GetServerAuthCode();
-	//			PlayfabManager.didEverGetAutCode = true;
-	//			callback(serverAuthCode);
-	//		}
-	//	}
-	//	catch (Exception ex)
-	//	{
-	//		UnityEngine.Debug.Log("Error getting Google Server Auth: " + ex.Message);
-	//		callback(null);
-	//	}
-	//}
+	private static void GetGoogleServerAuthCode(Action<string> callback)
+	{
+		try
+		{
+			if (PlayfabManager.didEverGetAutCode)
+			{
+				PlayGamesPlatform.Instance.GetAnotherServerAuthCode(false, delegate (string code)
+				{
+					UnityEngine.Debug.Log("Auth code: " + code);
+					callback(code);
+				});
+			}
+			else
+			{
+				string serverAuthCode = PlayGamesPlatform.Instance.GetServerAuthCode();
+				PlayfabManager.didEverGetAutCode = true;
+				callback(serverAuthCode);
+			}
+		}
+		catch (Exception ex)
+		{
+			UnityEngine.Debug.Log("Error getting Google Server Auth: " + ex.Message);
+			callback(null);
+		}
+	}
 
 	private static IEnumerator PollForLoginResult(Action callback)
 	{
@@ -194,63 +194,63 @@ public static class PlayfabManager
 
 	public static void Login(Action callback, bool showPlayfabCustomLoginWarning = true)
 	{
-        //try
-        //{
-        //	if (PlayfabManager.IsWaitingForLoginServerResponse())
-        //	{
-        //		Main.coroutineObject.StartCoroutine(PlayfabManager.PollForLoginResult(callback));
-        //	}
-        //	else
-        //	{
-        //		PlayfabManager.loginState = PlayfabManager.LoginState.WAIT_SERVER_RESP;
-        //		if (StoreManager.IsAuthed())
-        //		{
-        //			PlayfabManager.GetGoogleServerAuthCode(delegate(string authCode)
-        //			{
-        //				if (string.IsNullOrEmpty(authCode))
-        //				{
-        //					StoreManager.OnAuthFailed();
-        //					StoreManager.Authenticate(false, delegate
-        //					{
-        //						if (StoreManager.IsAuthed())
-        //						{
-        //							PlayfabManager.GetGoogleServerAuthCode(delegate(string authCodeRetried)
-        //							{
-        //								UnityEngine.Debug.Log("Auth code: " + authCodeRetried);
-        //								if (string.IsNullOrEmpty(authCodeRetried))
-        //								{
-        //									PlayfabManager.LoginCustom(callback, showPlayfabCustomLoginWarning);
-        //								}
-        //								else
-        //								{
-        //									PlayfabManager.LoginGoogle(authCodeRetried, callback, showPlayfabCustomLoginWarning);
-        //								}
-        //							});
-        //						}
-        //						else
-        //						{
-        //							PlayfabManager.LoginCustom(callback, showPlayfabCustomLoginWarning);
-        //						}
-        //					});
-        //				}
-        //				else
-        //				{
-        //					PlayfabManager.LoginGoogle(authCode, callback, showPlayfabCustomLoginWarning);
-        //				}
-        //			});
-        //		}
-        //		else
-        //		{
-        //			PlayfabManager.LoginCustom(callback, showPlayfabCustomLoginWarning);
-        //		}
-        //	}
-        //}
-        //catch (Exception)
-        //{
-        //	PlayfabManager.loginState = PlayfabManager.LoginState.COMPLETED_FAIL;
-        //	callback();
-        //}
-        PlayfabManager.LoginCustom(callback, showPlayfabCustomLoginWarning);
+		try
+		{
+			if (PlayfabManager.IsWaitingForLoginServerResponse())
+			{
+				Main.coroutineObject.StartCoroutine(PlayfabManager.PollForLoginResult(callback));
+			}
+			else
+			{
+				PlayfabManager.loginState = PlayfabManager.LoginState.WAIT_SERVER_RESP;
+				if (StoreManager.IsAuthed())
+				{
+					PlayfabManager.GetGoogleServerAuthCode(delegate (string authCode)
+					{
+						if (string.IsNullOrEmpty(authCode))
+						{
+							StoreManager.OnAuthFailed();
+							StoreManager.Authenticate(false, delegate
+							{
+								if (StoreManager.IsAuthed())
+								{
+									PlayfabManager.GetGoogleServerAuthCode(delegate (string authCodeRetried)
+									{
+										UnityEngine.Debug.Log("Auth code: " + authCodeRetried);
+										if (string.IsNullOrEmpty(authCodeRetried))
+										{
+											PlayfabManager.LoginCustom(callback, showPlayfabCustomLoginWarning);
+										}
+										else
+										{
+											PlayfabManager.LoginGoogle(authCodeRetried, callback, showPlayfabCustomLoginWarning);
+										}
+									});
+								}
+								else
+								{
+									PlayfabManager.LoginCustom(callback, showPlayfabCustomLoginWarning);
+								}
+							});
+						}
+						else
+						{
+							PlayfabManager.LoginGoogle(authCode, callback, showPlayfabCustomLoginWarning);
+						}
+					});
+				}
+				else
+				{
+					PlayfabManager.LoginCustom(callback, showPlayfabCustomLoginWarning);
+				}
+			}
+		}
+		catch (Exception)
+		{
+			PlayfabManager.loginState = PlayfabManager.LoginState.COMPLETED_FAIL;
+			callback();
+		}
+		PlayfabManager.LoginCustom(callback, showPlayfabCustomLoginWarning);
     }
 
 	
